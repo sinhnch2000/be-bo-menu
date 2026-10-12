@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-10-10T04:11:21.807Z",
+  "collections": [
+    {
+      "name": "Choco",
+      "slug": "choco"
+    },
+    {
+      "name": "cupid",
+      "slug": "cupid"
+    },
+    {
+      "name": "dâu",
+      "slug": "dau"
+    },
+    {
+      "name": "Dịch vụ",
+      "slug": "dich-vu"
+    },
+    {
+      "name": "fairy",
+      "slug": "fairy"
+    },
+    {
+      "name": "Flower Knows",
+      "slug": "flower-knows"
+    },
+    {
+      "name": "gấu",
+      "slug": "gau"
+    },
+    {
+      "name": "hồ điệp",
+      "slug": "ho-diep"
+    },
+    {
+      "name": "Hoa Thần",
+      "slug": "hoa-than"
+    },
+    {
+      "name": "kỷ niệm",
+      "slug": "ky-niem"
+    },
+    {
+      "name": "LA",
+      "slug": "la"
+    },
+    {
+      "name": "mermaid",
+      "slug": "mermaid"
+    },
+    {
+      "name": "noel",
+      "slug": "noel"
+    },
+    {
+      "name": "snow",
+      "slug": "snow"
+    },
+    {
+      "name": "sò",
+      "slug": "so"
+    },
+    {
+      "name": "swan",
+      "slug": "swan"
+    },
+    {
+      "name": "thất tịch",
+      "slug": "that-tich"
+    },
+    {
+      "name": "thỏ",
+      "slug": "tho"
+    },
+    {
+      "name": "unicorn",
+      "slug": "unicorn"
+    },
+    {
+      "name": "unicorn v2",
+      "slug": "unicorn-v2"
+    }
+  ],
+  "excluded": [
+    "Đang về",
+    "Đồ dùng"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "collection": "thất tịch",
+  "slug": "that-tich",
+  "count": 1,
+  "items": [
+    {
+      "id": "SKU-0380",
+      "name": "cốp",
+      "warehouse": "FK",
+      "collection": "thất tịch",
+      "price": 450000,
+      "retail_price": 650000,
+      "desired_price": 450000,
+      "quantity_available": 1,
+      "image": "images/SKU-0380.jpg"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "collection": "Flower Knows",
+  "slug": "flower-knows",
+  "count": 10,
+  "items": [
+    {
+      "id": "SKU-0059",
+      "name": "box sinh nhật",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 40000,
+      "retail_price": 75000,
+      "desired_price": 46000,
+      "quantity_available": 0,
+      "image": "images/SKU-0059.webp"
+    },
+    {
+      "id": "SKU-0073",
+      "name": "cọ mắt",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 10000,
+      "retail_price": 15000,
+      "desired_price": 10000,
+      "quantity_available": 113,
+      "image": "images/SKU-0073.jpg"
+    },
+    {
+      "id": "SKU-0094",
+      "name": "cọ môi",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 10000,
+      "retail_price": 18000,
+      "desired_price": 10000,
+      "quantity_available": 0,
+      "image": "images/SKU-0094.webp"
+    },
+    {
+      "id": "SKU-0070",
+      "name": "cốp trang sức",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 90850,
+      "retail_price": 150000,
+      "desired_price": 110000,
+      "quantity_available": 0,
+      "image": "images/SKU-0070.webp"
+    },
+    {
+      "id": "SKU-0056",
+      "name": "miếng tẩy trang",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 4000,
+      "retail_price": 5000,
+      "desired_price": 4000,
+      "quantity_available": 0,
+      "image": "images/SKU-0056.webp"
+    },
+    {
+      "id": "SKU-0057",
+      "name": "mút",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 4985,
+      "retail_price": 8000,
+      "desired_price": 5000,
+      "quantity_available": 174,
+      "image": "images/SKU-0057.webp"
+    },
+    {
+      "id": "SKU-0447",
+      "name": "mút ckd",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 6229,
+      "retail_price": 15000,
+      "desired_price": 7000,
+      "quantity_available": 6,
+      "image": "images/SKU-0447.jpg"
+    },
+    {
+      "id": "SKU-0072",
+      "name": "sáp tẩy trang mini",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 5000,
+      "retail_price": 8000,
+      "desired_price": 5000,
+      "quantity_available": 169,
+      "image": "images/SKU-0072.webp"
+    },
+    {
+      "id": "SKU-0112",
+      "name": "túi hồng tote limited",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0112.webp"
+    },
+    {
+      "id": "SKU-0118",
+      "name": "túi hồng trong suốt",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 120000,
+      "retail_price": 165000,
+      "desired_price": 120000,
+      "quantity_available": 10,
+      "image": "images/SKU-0118.webp"
+    }
+  ]
+}

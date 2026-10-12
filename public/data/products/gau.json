@@ -1,0 +1,271 @@
+{
+  "collection": "gấu",
+  "slug": "gau",
+  "count": 24,
+  "items": [
+    {
+      "id": "SKU-0095",
+      "name": "băng đô",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 31000,
+      "retail_price": 35000,
+      "desired_price": 31000,
+      "quantity_available": 1,
+      "image": "images/SKU-0095.webp"
+    },
+    {
+      "id": "SKU-0027",
+      "name": "ckđ hồng",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 240000,
+      "retail_price": 330000,
+      "desired_price": 240000,
+      "quantity_available": 0,
+      "image": "images/SKU-0027.webp"
+    },
+    {
+      "id": "SKU-0026",
+      "name": "ckđ nâu",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 238000,
+      "retail_price": 305000,
+      "desired_price": 238000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0047",
+      "name": "cọ má hồng",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 60000,
+      "retail_price": 85000,
+      "desired_price": 60000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0001",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 145000,
+      "retail_price": 200000,
+      "desired_price": 145000,
+      "quantity_available": 0,
+      "image": "images/SKU-0001.webp"
+    },
+    {
+      "id": "SKU-0074",
+      "name": "gương nâu",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 148000,
+      "retail_price": 203000,
+      "desired_price": 148000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0003",
+      "name": "gương xanh",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 185000,
+      "retail_price": 254000,
+      "desired_price": 185000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0088",
+      "name": "kẻ mày",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 75000,
+      "retail_price": 103000,
+      "desired_price": 75000,
+      "quantity_available": 0,
+      "image": "images/SKU-0088.webp"
+    },
+    {
+      "id": "SKU-0080",
+      "name": "kẹp limited",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 25000,
+      "retail_price": 35000,
+      "desired_price": 25000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0054",
+      "name": "kẹp tóc",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 12000,
+      "retail_price": 17000,
+      "desired_price": 12000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0221",
+      "name": "má 01 quốc tế",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 155000,
+      "retail_price": 213000,
+      "desired_price": 155000,
+      "quantity_available": 0,
+      "image": "images/SKU-0221.webp"
+    },
+    {
+      "id": "SKU-0034",
+      "name": "má 03",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 155000,
+      "retail_price": 215000,
+      "desired_price": 155000,
+      "quantity_available": 0,
+      "image": "images/SKU-0034.webp"
+    },
+    {
+      "id": "SKU-0172",
+      "name": "má 05",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 150000,
+      "retail_price": 206000,
+      "desired_price": 150000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0018",
+      "name": "mắt 02",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 192934,
+      "retail_price": 310000,
+      "desired_price": 225000,
+      "quantity_available": 3,
+      "image": "images/SKU-0018.webp"
+    },
+    {
+      "id": "SKU-0029",
+      "name": "móc khoá",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 120000,
+      "retail_price": 165000,
+      "desired_price": 120000,
+      "quantity_available": 19,
+      "image": "images/SKU-0029.jpg"
+    },
+    {
+      "id": "SKU-0077",
+      "name": "móc khoá mini",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 45000,
+      "retail_price": 63000,
+      "desired_price": 45000,
+      "quantity_available": 21,
+      "image": "images/SKU-0077.webp"
+    },
+    {
+      "id": "SKU-0230",
+      "name": "mút nền alibae",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 35505,
+      "retail_price": 62000,
+      "desired_price": 45000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0144",
+      "name": "nước hoa hồng",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 300000,
+      "retail_price": 411000,
+      "desired_price": 300000,
+      "quantity_available": 0,
+      "image": "images/SKU-0144.webp"
+    },
+    {
+      "id": "SKU-0127",
+      "name": "son 02",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 113680,
+      "retail_price": 156000,
+      "desired_price": 113680,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0222",
+      "name": "son 04",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0017",
+      "name": "son 05",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0017.webp"
+    },
+    {
+      "id": "SKU-0214",
+      "name": "son 06",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0214.webp"
+    },
+    {
+      "id": "SKU-0213",
+      "name": "vial",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 10000,
+      "retail_price": 20000,
+      "desired_price": 15000,
+      "quantity_available": 0,
+      "image": "images/SKU-0213.webp"
+    },
+    {
+      "id": "SKU-0216",
+      "name": "vỏ phấn phủ cổ",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 160000,
+      "retail_price": 220000,
+      "desired_price": 160000,
+      "quantity_available": 1,
+      "image": "images/SKU-0216.webp"
+    }
+  ]
+}

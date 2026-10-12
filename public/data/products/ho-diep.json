@@ -1,0 +1,95 @@
+{
+  "collection": "hồ điệp",
+  "slug": "ho-diep",
+  "count": 8,
+  "items": [
+    {
+      "id": "SKU-0022",
+      "name": "bảng mắt",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 255000,
+      "retail_price": 330000,
+      "desired_price": 255000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0228",
+      "name": "gương tím",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 182000,
+      "retail_price": 250000,
+      "desired_price": 182000,
+      "quantity_available": 2,
+      "image": "images/SKU-0228.webp"
+    },
+    {
+      "id": "SKU-0049",
+      "name": "kẻ mắt",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 55000,
+      "retail_price": 80000,
+      "desired_price": 55000,
+      "quantity_available": 16,
+      "image": "images/SKU-0049.jpg"
+    },
+    {
+      "id": "SKU-0041",
+      "name": "kẹp mi",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 40000,
+      "retail_price": 60000,
+      "desired_price": 40000,
+      "quantity_available": 1,
+      "image": "images/SKU-0041.webp"
+    },
+    {
+      "id": "SKU-0021",
+      "name": "khối 01",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 237000,
+      "retail_price": 377000,
+      "desired_price": 275000,
+      "quantity_available": 0,
+      "image": "images/SKU-0021.jpg"
+    },
+    {
+      "id": "SKU-0120",
+      "name": "khối 02",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 248938,
+      "retail_price": 382000,
+      "desired_price": 278315,
+      "quantity_available": 1,
+      "image": "images/SKU-0120.jpg"
+    },
+    {
+      "id": "SKU-0032",
+      "name": "má 04",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 140000,
+      "retail_price": 190000,
+      "desired_price": 140000,
+      "quantity_available": 0,
+      "image": "images/SKU-0032.webp"
+    },
+    {
+      "id": "SKU-0013",
+      "name": "son",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 92000,
+      "retail_price": 170000,
+      "desired_price": 92000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

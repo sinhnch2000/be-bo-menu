@@ -1,0 +1,84 @@
+{
+  "collection": "mermaid",
+  "slug": "mermaid",
+  "count": 7,
+  "items": [
+    {
+      "id": "SKU-0218",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 430000,
+      "retail_price": 830000,
+      "desired_price": 430000,
+      "quantity_available": 0,
+      "image": "images/SKU-0218.webp"
+    },
+    {
+      "id": "SKU-0109",
+      "name": "gương móc charm mini",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 104000,
+      "retail_price": 200000,
+      "desired_price": 104000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0225",
+      "name": "gương trắng",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 145000,
+      "retail_price": 199000,
+      "desired_price": 145000,
+      "quantity_available": 0,
+      "image": "images/SKU-0225.webp"
+    },
+    {
+      "id": "SKU-0079",
+      "name": "gương xanh đậm",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 129708,
+      "retail_price": 190000,
+      "desired_price": 129708,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0121",
+      "name": "má móc charm mini",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 74670,
+      "retail_price": 103000,
+      "desired_price": 74670,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0108",
+      "name": "nước hoa xanh 02",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 300000,
+      "retail_price": 420000,
+      "desired_price": 300000,
+      "quantity_available": 0,
+      "image": "images/SKU-0108.webp"
+    },
+    {
+      "id": "SKU-0012",
+      "name": "son",
+      "warehouse": "FK",
+      "collection": "mermaid",
+      "price": 130000,
+      "retail_price": 179000,
+      "desired_price": 130000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "collection": "unicorn v2",
+  "slug": "unicorn-v2",
+  "count": 1,
+  "items": [
+    {
+      "id": "SKU-0219",
+      "name": "má 03",
+      "warehouse": "FK",
+      "collection": "unicorn v2",
+      "price": 140000,
+      "retail_price": 192000,
+      "desired_price": 140000,
+      "quantity_available": 0,
+      "image": "images/SKU-0219.webp"
+    }
+  ]
+}

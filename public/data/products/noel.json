@@ -1,0 +1,40 @@
+{
+  "collection": "noel",
+  "slug": "noel",
+  "count": 3,
+  "items": [
+    {
+      "id": "SKU-0062",
+      "name": "cốp 2024",
+      "warehouse": "FK",
+      "collection": "noel",
+      "price": 600000,
+      "retail_price": 650000,
+      "desired_price": 600000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0061",
+      "name": "cốp 2025 lẻ 750k",
+      "warehouse": "FK",
+      "collection": "noel",
+      "price": 700000,
+      "retail_price": 750000,
+      "desired_price": 700000,
+      "quantity_available": 0,
+      "image": "images/SKU-0061.webp"
+    },
+    {
+      "id": "SKU-0064",
+      "name": "ví",
+      "warehouse": "FK",
+      "collection": "noel",
+      "price": 30593,
+      "retail_price": 50000,
+      "desired_price": 30593,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

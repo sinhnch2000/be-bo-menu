@@ -1,0 +1,128 @@
+{
+  "collection": "LA",
+  "slug": "la",
+  "count": 11,
+  "items": [
+    {
+      "id": "SKU-0101",
+      "name": "gương đen",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 600000,
+      "retail_price": 850000,
+      "desired_price": 600000,
+      "quantity_available": 0,
+      "image": "images/SKU-0101.jpg"
+    },
+    {
+      "id": "SKU-0114",
+      "name": "Gương hồng",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 800000,
+      "retail_price": 1200000,
+      "desired_price": 800000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0145",
+      "name": "gương trắng",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 700000,
+      "retail_price": 980000,
+      "desired_price": 700000,
+      "quantity_available": 0,
+      "image": "images/SKU-0145.jpg"
+    },
+    {
+      "id": "SKU-0016",
+      "name": "highlight L03",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 165000,
+      "retail_price": 226000,
+      "desired_price": 165000,
+      "quantity_available": 11,
+      "image": "images/SKU-0016.webp"
+    },
+    {
+      "id": "SKU-0224",
+      "name": "highlight L04",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 161000,
+      "retail_price": 221000,
+      "desired_price": 161000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0234",
+      "name": "highlight M01",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 170000,
+      "retail_price": 235000,
+      "desired_price": 170000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0356",
+      "name": "kem lót",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 185373.5,
+      "retail_price": 254000,
+      "desired_price": 185373.5,
+      "quantity_available": 0,
+      "image": "images/SKU-0356.webp"
+    },
+    {
+      "id": "SKU-0078",
+      "name": "ly",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 90215,
+      "retail_price": 250000,
+      "desired_price": 150000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0098",
+      "name": "má 04",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 86577,
+      "retail_price": 119000,
+      "desired_price": 86577,
+      "quantity_available": 0,
+      "image": "images/SKU-0098.webp"
+    },
+    {
+      "id": "SKU-0107",
+      "name": "măt 01",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 219169,
+      "retail_price": 358000,
+      "desired_price": 260000,
+      "quantity_available": 35,
+      "image": "images/SKU-0107.webp"
+    },
+    {
+      "id": "SKU-0081",
+      "name": "son dưỡng",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 40220,
+      "retail_price": 80000,
+      "desired_price": 55000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

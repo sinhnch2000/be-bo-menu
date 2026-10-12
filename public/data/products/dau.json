@@ -1,0 +1,62 @@
+{
+  "collection": "dâu",
+  "slug": "dau",
+  "count": 5,
+  "items": [
+    {
+      "id": "SKU-0091",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 257000,
+      "retail_price": 355000,
+      "desired_price": 257000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0111",
+      "name": "gương mini xanh",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 109000,
+      "retail_price": 150000,
+      "desired_price": 109000,
+      "quantity_available": 0,
+      "image": "images/SKU-0111.webp"
+    },
+    {
+      "id": "SKU-0031",
+      "name": "má 01",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 150000,
+      "retail_price": 208000,
+      "desired_price": 150000,
+      "quantity_available": 0,
+      "image": "images/SKU-0031.webp"
+    },
+    {
+      "id": "SKU-0200",
+      "name": "má 03",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 129243,
+      "retail_price": 213000,
+      "desired_price": 155000,
+      "quantity_available": 25,
+      "image": "images/SKU-0200.webp"
+    },
+    {
+      "id": "SKU-0014",
+      "name": "son hồng",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 144000,
+      "retail_price": 198000,
+      "desired_price": 144000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "collection": "Hoa Thần",
+  "slug": "hoa-than",
+  "count": 2,
+  "items": [
+    {
+      "id": "SKU-0372",
+      "name": "vỏ cushion hồng",
+      "warehouse": "FK",
+      "collection": "Hoa Thần",
+      "price": 160000,
+      "retail_price": 220000,
+      "desired_price": 160000,
+      "quantity_available": 1,
+      "image": "images/SKU-0372.webp"
+    },
+    {
+      "id": "SKU-0215",
+      "name": "vỏ cushion xanh",
+      "warehouse": "FK",
+      "collection": "Hoa Thần",
+      "price": 160000,
+      "retail_price": 220000,
+      "desired_price": 160000,
+      "quantity_available": 1,
+      "image": "images/SKU-0215.webp"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "collection": "swan",
+  "slug": "swan",
+  "count": 14,
+  "items": [
+    {
+      "id": "SKU-0217",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 900000,
+      "retail_price": 1300000,
+      "desired_price": 900000,
+      "quantity_available": 0,
+      "image": "images/SKU-0217.jpg"
+    },
+    {
+      "id": "SKU-0355",
+      "name": "gương hồng nobox",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 572000,
+      "retail_price": 784000,
+      "desired_price": 572000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0146",
+      "name": "gương xanh",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 661635,
+      "retail_price": 891000,
+      "desired_price": 661635,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0227",
+      "name": "lược",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 150000,
+      "retail_price": 206000,
+      "desired_price": 150000,
+      "quantity_available": 0,
+      "image": "images/SKU-0227.webp"
+    },
+    {
+      "id": "SKU-0033",
+      "name": "má",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 175000,
+      "retail_price": 240000,
+      "desired_price": 175000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0437",
+      "name": "má 02",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 165000,
+      "retail_price": 230000,
+      "desired_price": 165000,
+      "quantity_available": 24,
+      "image": "images/SKU-0437.jpg"
+    },
+    {
+      "id": "SKU-0141",
+      "name": "mắt 01",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 227032.474798387,
+      "retail_price": 315000,
+      "desired_price": 230000,
+      "quantity_available": 0,
+      "image": "images/SKU-0141.webp"
+    },
+    {
+      "id": "SKU-0097",
+      "name": "mắt 02",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 230000,
+      "retail_price": 320000,
+      "desired_price": 230000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0065",
+      "name": "mắt 03",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 217739,
+      "retail_price": 330000,
+      "desired_price": 240000,
+      "quantity_available": 47,
+      "image": "images/SKU-0065.webp"
+    },
+    {
+      "id": "SKU-0371",
+      "name": "mút đôi",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 15000,
+      "retail_price": 21000,
+      "desired_price": 15000,
+      "quantity_available": 0,
+      "image": "images/SKU-0371.webp"
+    },
+    {
+      "id": "SKU-0369",
+      "name": "son 02",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0369.jpg"
+    },
+    {
+      "id": "SKU-0370",
+      "name": "son 03",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0370.jpg"
+    },
+    {
+      "id": "SKU-0135",
+      "name": "son 05",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 65000,
+      "retail_price": 90000,
+      "desired_price": 65000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0086",
+      "name": "son 07",
+      "warehouse": "FK",
+      "collection": "swan",
+      "price": 135000,
+      "retail_price": 190000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

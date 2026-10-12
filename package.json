@@ -1,0 +1,16 @@
+{
+  "name": "be-bo-menu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static menu for Bé Bơ Shopping. Hosted on GitHub Pages with hourly refresh via GitHub Actions.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}

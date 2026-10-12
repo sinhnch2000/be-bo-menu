@@ -1,0 +1,86 @@
+name: Refresh menu
+
+# Hourly cron: pulls latest catalogue + images from Supabase Postgres and
+# commits the static files so GitHub Pages stays up to date.
+on:
+  schedule:
+    - cron: '17 * * * *' # top of every hour, offset by 17 min
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Optional note for the manual run (used in commit message)'
+        required: false
+        default: 'manual run'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-menu
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Cache npm modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-refresh-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-refresh-node-
+
+      - name: Install dependencies
+        if: hashFiles('package-lock.json') != ''
+        run: npm ci --no-audit --no-fund
+      - name: Install dependencies (no lockfile)
+        if: hashFiles('package-lock.json') == ''
+        run: npm install --no-audit --no-fund
+
+      - name: Run refresh script
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: npm run refresh
+
+      - name: Check for changes
+        id: check
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected:"
+            git status --short
+          fi
+
+      - name: Configure git
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name 'be-bo-bot'
+          git config user.email 'be-bo-bot@users.noreply.github.com'
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: |
+            refresh: cập nhật menu lúc ${{ github.event.head_commit.timestamp || github.event.repository.updated_at }}
+
+            Trigger: ${{ github.event_name }}
+            Reason: ${{ github.event.inputs.reason || 'scheduled' }}
+          branch: main
+          commit_options: '--allow-empty'

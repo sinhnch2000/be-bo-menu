@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Menu sản phẩm Bé Bơ Shopping">
+  <title>Bé Bơ Shopping | Menu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div class="header-inner">
+        <div><p class="eyebrow">Bé Bơ Shopping</p><h1>Landing Page</h1></div>
+        <button class="refresh" id="refreshButton" type="button" aria-label="Tải lại menu">↻ <span>Tải lại</span></button>
+      </div>
+    </header>
+    <section class="content">
+      <div class="intro">
+        <div><h2>Menu Bé Bơ Shopping</h2><p>Xem danh sách sản phẩm có sẵn</p></div>
+        <div class="status" id="status">Đang tải dữ liệu mới...</div>
+      </div>
+      <input class="search" id="search" type="search" placeholder="Tìm sản phẩm hoặc bộ sưu tập..." aria-label="Tìm sản phẩm">
+      <div id="menu"><div class="message">Đang tải menu...</div></div>
+    </section>
+    <footer>
+      <span id="generatedAt"></span> · Dữ liệu tự động làm mới mỗi giờ.
+    </footer>
+  </main>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

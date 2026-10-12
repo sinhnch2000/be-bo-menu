@@ -1,0 +1,106 @@
+{
+  "collection": "fairy",
+  "slug": "fairy",
+  "count": 9,
+  "items": [
+    {
+      "id": "SKU-0085",
+      "name": "ckd",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0363",
+      "name": "ckd 02",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 130350,
+      "retail_price": 190000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0363.jpg"
+    },
+    {
+      "id": "SKU-0364",
+      "name": "ckd 03",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 125000,
+      "retail_price": 172000,
+      "desired_price": 125000,
+      "quantity_available": 0,
+      "image": "images/SKU-0364.jpg"
+    },
+    {
+      "id": "SKU-0050",
+      "name": "ckd mini 02",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 51350,
+      "retail_price": 71000,
+      "desired_price": 51350,
+      "quantity_available": 21,
+      "image": "images/SKU-0050.webp"
+    },
+    {
+      "id": "SKU-0113",
+      "name": "ckđ mini 03",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 40000,
+      "retail_price": 60000,
+      "desired_price": 40000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0229",
+      "name": "cọ má trắng",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 41422,
+      "retail_price": 69000,
+      "desired_price": 50000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0067",
+      "name": "gương",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 131000,
+      "retail_price": 190000,
+      "desired_price": 131000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0015",
+      "name": "highlight",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0066",
+      "name": "mắt 01",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 160000,
+      "retail_price": 250000,
+      "desired_price": 160000,
+      "quantity_available": 0,
+      "image": "images/SKU-0066.webp"
+    }
+  ]
+}

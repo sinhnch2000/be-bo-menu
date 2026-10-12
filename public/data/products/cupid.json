@@ -1,0 +1,194 @@
+{
+  "collection": "cupid",
+  "slug": "cupid",
+  "count": 17,
+  "items": [
+    {
+      "id": "SKU-0117",
+      "name": "gương đen",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 117750,
+      "retail_price": 200000,
+      "desired_price": 145000,
+      "quantity_available": 29,
+      "image": "images/SKU-0117.webp"
+    },
+    {
+      "id": "SKU-0002",
+      "name": "gương đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 126400,
+      "retail_price": 215000,
+      "desired_price": 155000,
+      "quantity_available": 0,
+      "image": "images/SKU-0002.webp"
+    },
+    {
+      "id": "SKU-0038",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 275946,
+      "retail_price": 385000,
+      "desired_price": 280000,
+      "quantity_available": 4,
+      "image": "images/SKU-0038.webp"
+    },
+    {
+      "id": "SKU-0220",
+      "name": "guong mini",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 270000,
+      "retail_price": 370000,
+      "desired_price": 270000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0068",
+      "name": "kẹp đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 10000,
+      "retail_price": 25000,
+      "desired_price": 10000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0132",
+      "name": "kẹp hồng",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 10000,
+      "retail_price": 25000,
+      "desired_price": 10000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0005",
+      "name": "má",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 127490,
+      "retail_price": 180000,
+      "desired_price": 130000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0465",
+      "name": "măt 01",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 216273,
+      "retail_price": 316000,
+      "desired_price": 230000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0106",
+      "name": "măt 02",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 238244,
+      "retail_price": 354000,
+      "desired_price": 260000,
+      "quantity_available": 32,
+      "image": "images/SKU-0106.webp"
+    },
+    {
+      "id": "SKU-0129",
+      "name": "nước hoa hồng",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 375000,
+      "retail_price": 550000,
+      "desired_price": 375000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0025",
+      "name": "phấn phủ đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 245000,
+      "retail_price": 350000,
+      "desired_price": 245000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0024",
+      "name": "phấn phủ hồng",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 260000,
+      "retail_price": 360000,
+      "desired_price": 260000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0087",
+      "name": "son 02",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0087.webp"
+    },
+    {
+      "id": "SKU-0226",
+      "name": "son 04",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0226.webp"
+    },
+    {
+      "id": "SKU-0199",
+      "name": "son 06",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0199.webp"
+    },
+    {
+      "id": "SKU-0389",
+      "name": "son 07",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 7,
+      "image": "images/SKU-0389.jpg"
+    },
+    {
+      "id": "SKU-0143",
+      "name": "vial",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 1000,
+      "retail_price": 40000,
+      "desired_price": 10000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

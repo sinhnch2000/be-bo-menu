@@ -1,0 +1,84 @@
+{
+  "collection": "Choco",
+  "slug": "choco",
+  "count": 7,
+  "items": [
+    {
+      "id": "SKU-0448",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 169388,
+      "retail_price": 240000,
+      "desired_price": 170000,
+      "quantity_available": 2,
+      "image": "images/SKU-0448.jpg"
+    },
+    {
+      "id": "SKU-0449",
+      "name": "gương nâu",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 170000,
+      "retail_price": 240000,
+      "desired_price": 170000,
+      "quantity_available": 1,
+      "image": "images/SKU-0449.jpg"
+    },
+    {
+      "id": "SKU-0115",
+      "name": "khối",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 275000,
+      "retail_price": 380000,
+      "desired_price": 275000,
+      "quantity_available": 0,
+      "image": "images/SKU-0115.jpg"
+    },
+    {
+      "id": "SKU-0365",
+      "name": "má 01",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 114776,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 32,
+      "image": "images/SKU-0365.jpg"
+    },
+    {
+      "id": "SKU-0397",
+      "name": "má 02",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 3,
+      "image": "images/SKU-0397.jpg"
+    },
+    {
+      "id": "SKU-0128",
+      "name": "mắt 01",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 202100,
+      "retail_price": 365000,
+      "desired_price": 265000,
+      "quantity_available": 4,
+      "image": "images/SKU-0128.webp"
+    },
+    {
+      "id": "SKU-0082",
+      "name": "son 07",
+      "warehouse": "FK",
+      "collection": "Choco",
+      "price": 92591,
+      "retail_price": 173000,
+      "desired_price": 125000,
+      "quantity_available": 0,
+      "image": "images/SKU-0082.jpg"
+    }
+  ]
+}

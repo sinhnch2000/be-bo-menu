@@ -1,0 +1,29 @@
+{
+  "collection": "Dịch vụ",
+  "slug": "dich-vu",
+  "count": 2,
+  "items": [
+    {
+      "id": "SKU-0451",
+      "name": "hộp hoa rỗng (hình minh họa)",
+      "warehouse": "FK",
+      "collection": "Dịch vụ",
+      "price": 125000,
+      "retail_price": 175000,
+      "desired_price": 125000,
+      "quantity_available": 5,
+      "image": "images/SKU-0451.jpg"
+    },
+    {
+      "id": "SKU-0440",
+      "name": "thiệp sinh nhật 01",
+      "warehouse": "FK",
+      "collection": "Dịch vụ",
+      "price": 1000,
+      "retail_price": 5000,
+      "desired_price": 1000,
+      "quantity_available": 44,
+      "image": "images/SKU-0440.jpg"
+    }
+  ]
+}

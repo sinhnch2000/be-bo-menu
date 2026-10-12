@@ -1,0 +1,271 @@
+{
+  "collection": "sò",
+  "slug": "so",
+  "count": 24,
+  "items": [
+    {
+      "id": "SKU-0466",
+      "name": "box rỗng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 70000,
+      "retail_price": 100000,
+      "desired_price": 70000,
+      "quantity_available": 2,
+      "image": "images/SKU-0466.jpg"
+    },
+    {
+      "id": "SKU-0378",
+      "name": "bút highlight hồng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 67150,
+      "retail_price": 100000,
+      "desired_price": 70000,
+      "quantity_available": 0,
+      "image": "images/SKU-0378.jpg"
+    },
+    {
+      "id": "SKU-0110",
+      "name": "bút highlight xanh",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 70000,
+      "retail_price": 100000,
+      "desired_price": 70000,
+      "quantity_available": 0,
+      "image": "images/SKU-0110.webp"
+    },
+    {
+      "id": "SKU-0096",
+      "name": "gương hồng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 200000,
+      "retail_price": 280000,
+      "desired_price": 200000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0361",
+      "name": "gương mini",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 303755,
+      "retail_price": 417000,
+      "desired_price": 303755,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0105",
+      "name": "gương trắng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 170000,
+      "retail_price": 240000,
+      "desired_price": 170000,
+      "quantity_available": 24,
+      "image": "images/SKU-0105.webp"
+    },
+    {
+      "id": "SKU-0039",
+      "name": "gương xanh",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 184384.615384615,
+      "retail_price": 253000,
+      "desired_price": 184384.615384615,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0092",
+      "name": "kem lót hồng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 190000,
+      "retail_price": 265000,
+      "desired_price": 190000,
+      "quantity_available": 0,
+      "image": "images/SKU-0092.webp"
+    },
+    {
+      "id": "SKU-0136",
+      "name": "Kem lót hồng mini",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 40000,
+      "retail_price": 60000,
+      "desired_price": 40000,
+      "quantity_available": 12,
+      "image": "images/SKU-0136.webp"
+    },
+    {
+      "id": "SKU-0450",
+      "name": "kem lót xanh",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 141300,
+      "retail_price": 0,
+      "desired_price": 150000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0368",
+      "name": "kem lót xanh mini",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 40000,
+      "retail_price": 60000,
+      "desired_price": 40000,
+      "quantity_available": 16,
+      "image": "images/SKU-0368.jpg"
+    },
+    {
+      "id": "SKU-0100",
+      "name": "kẹp hồng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 12000,
+      "retail_price": 20000,
+      "desired_price": 12000,
+      "quantity_available": 0,
+      "image": "images/SKU-0100.webp"
+    },
+    {
+      "id": "SKU-0134",
+      "name": "kẹp xanh",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 12000,
+      "retail_price": 40000,
+      "desired_price": 12000,
+      "quantity_available": 0,
+      "image": "images/SKU-0134.webp"
+    },
+    {
+      "id": "SKU-0116",
+      "name": "má 03",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 165000,
+      "retail_price": 230000,
+      "desired_price": 165000,
+      "quantity_available": 29,
+      "image": "images/SKU-0116.jpg"
+    },
+    {
+      "id": "SKU-0084",
+      "name": "má 05",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 149150,
+      "retail_price": 230000,
+      "desired_price": 165000,
+      "quantity_available": 0,
+      "image": "images/SKU-0084.webp"
+    },
+    {
+      "id": "SKU-0124",
+      "name": "mắt 01",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 195000,
+      "retail_price": 270000,
+      "desired_price": 195000,
+      "quantity_available": 42,
+      "image": "images/SKU-0124.jpg"
+    },
+    {
+      "id": "SKU-0019",
+      "name": "mắt 02",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 175792,
+      "retail_price": 255000,
+      "desired_price": 200000,
+      "quantity_available": 10,
+      "image": "images/SKU-0019.webp"
+    },
+    {
+      "id": "SKU-0266",
+      "name": "mắt 02 móp",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 157800,
+      "retail_price": 217000,
+      "desired_price": 157800,
+      "quantity_available": 0,
+      "image": "images/SKU-0266.webp"
+    },
+    {
+      "id": "SKU-0069",
+      "name": "móc khoá",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 90016,
+      "retail_price": 160000,
+      "desired_price": 90016,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0099",
+      "name": "phủ hồng",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 235000,
+      "retail_price": 365000,
+      "desired_price": 265000,
+      "quantity_available": 1,
+      "image": "images/SKU-0099.webp"
+    },
+    {
+      "id": "SKU-0140",
+      "name": "phủ xanh",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 260000,
+      "retail_price": 360000,
+      "desired_price": 260000,
+      "quantity_available": 7,
+      "image": "images/SKU-0140.webp"
+    },
+    {
+      "id": "SKU-0168",
+      "name": "son 02",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 130350,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0168.jpg"
+    },
+    {
+      "id": "SKU-0075",
+      "name": "son 04",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 135000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": "images/SKU-0075.webp"
+    },
+    {
+      "id": "SKU-0008",
+      "name": "túi",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 45000,
+      "retail_price": 62000,
+      "desired_price": 45000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}
