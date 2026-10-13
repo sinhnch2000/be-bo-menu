@@ -22,7 +22,7 @@
       "price": 45000,
       "retail_price": 75000,
       "desired_price": 45000,
-      "quantity_available": 40,
+      "quantity_available": 37,
       "image": "images/SKU-0178.jpg"
     },
     {
@@ -33,7 +33,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 91,
+      "quantity_available": 88,
       "image": "images/SKU-0195.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "price": 131755,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 28,
+      "quantity_available": 26,
       "image": "images/SKU-0162.webp"
     },
     {
@@ -143,7 +143,7 @@
       "price": 15000,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 20,
+      "quantity_available": 19,
       "image": "images/SKU-0166.webp"
     },
     {
@@ -208,8 +208,8 @@
       "collection": "unicorn",
       "price": 172338,
       "retail_price": 329000,
-      "desired_price": 240000,
-      "quantity_available": 5,
+      "desired_price": 200000,
+      "quantity_available": 4,
       "image": "images/SKU-0161.webp"
     },
     {
@@ -220,7 +220,7 @@
       "price": 187583,
       "retail_price": 310000,
       "desired_price": 225000,
-      "quantity_available": 5,
+      "quantity_available": 4,
       "image": "images/SKU-0151.webp"
     },
     {
@@ -264,7 +264,7 @@
       "price": 11265,
       "retail_price": 21000,
       "desired_price": 12000,
-      "quantity_available": 14,
+      "quantity_available": 10,
       "image": "images/SKU-0156.webp"
     },
     {
@@ -297,7 +297,7 @@
       "price": 245000,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 8,
+      "quantity_available": 7,
       "image": "images/SKU-0152.jpg"
     },
     {
@@ -396,7 +396,7 @@
       "price": 135000,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 7,
+      "quantity_available": 6,
       "image": "images/SKU-0183.webp"
     },
     {
