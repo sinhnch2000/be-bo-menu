@@ -11,7 +11,7 @@
       "price": 70000,
       "retail_price": 100000,
       "desired_price": 70000,
-      "quantity_available": 2,
+      "quantity_available": 1,
       "image": "images/SKU-0466.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "price": 170000,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 24,
+      "quantity_available": 23,
       "image": "images/SKU-0105.webp"
     },
     {
@@ -99,7 +99,7 @@
       "price": 40000,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 12,
+      "quantity_available": 9,
       "image": "images/SKU-0136.webp"
     },
     {
@@ -121,7 +121,7 @@
       "price": 40000,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 16,
+      "quantity_available": 15,
       "image": "images/SKU-0368.jpg"
     },
     {
@@ -154,7 +154,7 @@
       "price": 165000,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 29,
+      "quantity_available": 26,
       "image": "images/SKU-0116.jpg"
     },
     {
@@ -176,7 +176,7 @@
       "price": 195000,
       "retail_price": 270000,
       "desired_price": 195000,
-      "quantity_available": 42,
+      "quantity_available": 35,
       "image": "images/SKU-0124.jpg"
     },
     {
@@ -184,10 +184,10 @@
       "name": "mắt 02",
       "warehouse": "FK",
       "collection": "sò",
-      "price": 175792,
+      "price": 192841,
       "retail_price": 255000,
       "desired_price": 200000,
-      "quantity_available": 10,
+      "quantity_available": 58,
       "image": "images/SKU-0019.webp"
     },
     {
@@ -229,9 +229,9 @@
       "warehouse": "FK",
       "collection": "sò",
       "price": 260000,
-      "retail_price": 360000,
+      "retail_price": 359999,
       "desired_price": 260000,
-      "quantity_available": 7,
+      "quantity_available": 6,
       "image": "images/SKU-0140.webp"
     },
     {

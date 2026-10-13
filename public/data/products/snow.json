@@ -11,7 +11,7 @@
       "price": 1,
       "retail_price": 90000,
       "desired_price": 60000,
-      "quantity_available": 1,
+      "quantity_available": 2,
       "image": "images/SKU-0439.jpg"
     },
     {
@@ -20,9 +20,9 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 1,
-      "retail_price": 75000,
-      "desired_price": 40000,
-      "quantity_available": 4,
+      "retail_price": 1,
+      "desired_price": 1,
+      "quantity_available": 3,
       "image": null
     },
     {
@@ -33,7 +33,7 @@
       "price": 43201,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 76,
+      "quantity_available": 73,
       "image": "images/SKU-0426.jpg"
     },
     {
@@ -44,7 +44,7 @@
       "price": 39198,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 38,
+      "quantity_available": 35,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -55,7 +55,7 @@
       "price": 818235,
       "retail_price": 1600000,
       "desired_price": 1100000,
-      "quantity_available": 3,
+      "quantity_available": 2,
       "image": "images/SKU-0431.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "price": 148770,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 78,
+      "quantity_available": 72,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "price": 148770,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 18,
+      "quantity_available": 12,
       "image": "images/SKU-0420.jpg"
     },
     {
@@ -132,7 +132,7 @@
       "price": 139009,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 1,
+      "quantity_available": 0,
       "image": "images/SKU-0416.jpg"
     },
     {
@@ -195,10 +195,10 @@
       "name": "má 01",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 148770,
+      "price": 149138,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 1,
+      "quantity_available": 25,
       "image": "images/SKU-0407.jpg"
     },
     {
@@ -220,7 +220,7 @@
       "price": 149869,
       "retail_price": 220000,
       "desired_price": 160000,
-      "quantity_available": 16,
+      "quantity_available": 15,
       "image": "images/SKU-0409.jpg"
     },
     {
@@ -231,7 +231,7 @@
       "price": 150567,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 19,
+      "quantity_available": 17,
       "image": "images/SKU-0410.jpg"
     },
     {
@@ -242,7 +242,7 @@
       "price": 153443,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 4,
+      "quantity_available": 3,
       "image": "images/SKU-0411.jpg"
     },
     {
@@ -253,7 +253,7 @@
       "price": 219522,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 22,
+      "quantity_available": 20,
       "image": "images/SKU-0404.jpg"
     },
     {
@@ -275,7 +275,7 @@
       "price": 219240,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 24,
+      "quantity_available": 22,
       "image": "images/SKU-0405.jpg"
     },
     {
@@ -294,10 +294,10 @@
       "name": "móc hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 105705,
+      "price": 105874,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 18,
+      "quantity_available": 49,
       "image": "images/SKU-0421.jpg"
     },
     {
@@ -308,7 +308,7 @@
       "price": 105705,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 9,
+      "quantity_available": 8,
       "image": "images/SKU-0422.jpg"
     },
     {
@@ -319,7 +319,7 @@
       "price": 305970,
       "retail_price": 440000,
       "desired_price": 314000,
-      "quantity_available": 3,
+      "quantity_available": 2,
       "image": "images/SKU-0427.jpg"
     },
     {
@@ -352,7 +352,7 @@
       "price": 291720,
       "retail_price": 405000,
       "desired_price": 295000,
-      "quantity_available": 2,
+      "quantity_available": 1,
       "image": "images/SKU-0413.jpg"
     },
     {
@@ -363,7 +363,7 @@
       "price": 8479,
       "retail_price": 20000,
       "desired_price": 10000,
-      "quantity_available": 2,
+      "quantity_available": 3,
       "image": "images/SKU-0444.jpg"
     },
     {
@@ -407,7 +407,7 @@
       "price": 133065,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 2,
+      "quantity_available": 0,
       "image": "images/SKU-0401.jpg"
     },
     {
@@ -416,9 +416,9 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 133549,
-      "retail_price": 185000,
+      "retail_price": 155000,
       "desired_price": 135000,
-      "quantity_available": 2,
+      "quantity_available": 0,
       "image": "images/SKU-0402.jpg"
     },
     {
@@ -451,7 +451,7 @@
       "price": 12610,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 1,
+      "quantity_available": 0,
       "image": "images/SKU-0446.jpg"
     }
   ]
