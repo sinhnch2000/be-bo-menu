@@ -44,7 +44,7 @@
       "price": 45000,
       "retail_price": 70000,
       "desired_price": 45000,
-      "quantity_available": 28,
+      "quantity_available": 29,
       "image": "images/SKU-0046.webp"
     },
     {
@@ -96,10 +96,10 @@
       "name": "gương hồng",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 176175,
+      "price": 176625,
       "retail_price": 255000,
       "desired_price": 185000,
-      "quantity_available": 0,
+      "quantity_available": 17,
       "image": "images/SKU-0004.webp"
     },
     {
@@ -187,7 +187,7 @@
       "price": 12000,
       "retail_price": 7000,
       "desired_price": 12000,
-      "quantity_available": 41,
+      "quantity_available": 42,
       "image": "images/SKU-0133.webp"
     },
     {
@@ -264,7 +264,7 @@
       "price": 234959,
       "retail_price": 336000,
       "desired_price": 240000,
-      "quantity_available": 27,
+      "quantity_available": 26,
       "image": "images/SKU-0028.webp"
     },
     {
