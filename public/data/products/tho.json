@@ -99,7 +99,7 @@
       "price": 176625,
       "retail_price": 255000,
       "desired_price": 185000,
-      "quantity_available": 16,
+      "quantity_available": 15,
       "image": "images/SKU-0004.webp"
     },
     {
@@ -132,7 +132,7 @@
       "price": 129195,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 28,
+      "quantity_available": 26,
       "image": "images/SKU-0006.webp"
     },
     {
@@ -185,9 +185,9 @@
       "warehouse": "FK",
       "collection": "thỏ",
       "price": 12000,
-      "retail_price": 7000,
+      "retail_price": 21000,
       "desired_price": 12000,
-      "quantity_available": 39,
+      "quantity_available": 35,
       "image": "images/SKU-0133.webp"
     },
     {
