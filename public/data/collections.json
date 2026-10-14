@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:17:51.937Z",
+  "generated_at": "2026-10-14T06:08:45.903Z",
   "collections": [
     {
       "name": "Choco",
@@ -40,6 +40,10 @@
     {
       "name": "kỷ niệm",
       "slug": "ky-niem"
+    },
+    {
+      "name": "kỷ niệm 10",
+      "slug": "ky-niem-10"
     },
     {
       "name": "LA",
