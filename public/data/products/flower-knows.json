@@ -1,7 +1,7 @@
 {
   "collection": "Flower Knows",
   "slug": "flower-knows",
-  "count": 10,
+  "count": 13,
   "items": [
     {
       "id": "SKU-0059",
@@ -15,6 +15,17 @@
       "image": "images/SKU-0059.webp"
     },
     {
+      "id": "SKU-0471",
+      "name": "cọ che khuyết điểm",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 7850,
+      "retail_price": 14000,
+      "desired_price": 10000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
       "id": "SKU-0073",
       "name": "cọ mắt",
       "warehouse": "FK",
@@ -22,7 +33,7 @@
       "price": 10000,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 91,
+      "quantity_available": 92,
       "image": "images/SKU-0073.jpg"
     },
     {
@@ -48,6 +59,17 @@
       "image": "images/SKU-0070.webp"
     },
     {
+      "id": "SKU-0470",
+      "name": "khăn tẩy trang",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 2747.5,
+      "retail_price": 7000,
+      "desired_price": 5000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
       "id": "SKU-0056",
       "name": "miếng tẩy trang",
       "warehouse": "FK",
@@ -66,7 +88,7 @@
       "price": 4985,
       "retail_price": 8000,
       "desired_price": 5000,
-      "quantity_available": 155,
+      "quantity_available": 156,
       "image": "images/SKU-0057.webp"
     },
     {
@@ -112,6 +134,17 @@
       "desired_price": 120000,
       "quantity_available": 9,
       "image": "images/SKU-0118.webp"
+    },
+    {
+      "id": "SKU-0472",
+      "name": "túi tim giáng sinh",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 39250,
+      "retail_price": 62000,
+      "desired_price": 45000,
+      "quantity_available": 0,
+      "image": null
     }
   ]
 }
