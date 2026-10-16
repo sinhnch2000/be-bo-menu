@@ -9,9 +9,9 @@
       "warehouse": "FK",
       "collection": "kỷ niệm 10",
       "price": 39,
-      "retail_price": 190000,
-      "desired_price": 135000,
-      "quantity_available": 1,
+      "retail_price": 155000,
+      "desired_price": 110000,
+      "quantity_available": 0,
       "image": null
     }
   ]
