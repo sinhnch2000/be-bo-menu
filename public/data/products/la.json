@@ -37,26 +37,15 @@
       "image": "images/SKU-0145.jpg"
     },
     {
-      "id": "SKU-0016",
+      "id": "SKU-0224",
       "name": "highlight L03",
       "warehouse": "FK",
       "collection": "LA",
-      "price": 165000,
-      "retail_price": 226000,
-      "desired_price": 165000,
-      "quantity_available": 3,
-      "image": "images/SKU-0016.webp"
-    },
-    {
-      "id": "SKU-0224",
-      "name": "highlight L04",
-      "warehouse": "FK",
-      "collection": "LA",
-      "price": 161000,
+      "price": 157000,
       "retail_price": 221000,
       "desired_price": 161000,
-      "quantity_available": 0,
-      "image": null
+      "quantity_available": 38,
+      "image": "images/SKU-0224.webp"
     },
     {
       "id": "SKU-0234",
@@ -110,8 +99,19 @@
       "price": 219169,
       "retail_price": 358000,
       "desired_price": 260000,
-      "quantity_available": 29,
+      "quantity_available": 27,
       "image": "images/SKU-0107.webp"
+    },
+    {
+      "id": "SKU-0474",
+      "name": "son C02",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 113825,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 0,
+      "image": null
     },
     {
       "id": "SKU-0081",
