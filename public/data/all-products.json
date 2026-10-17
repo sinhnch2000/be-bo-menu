@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T06:57:15.529Z",
-  "count": 272,
+  "generated_at": "2026-10-17T11:37:43.571Z",
+  "count": 273,
   "items": [
     {
       "id": "SKU-0448",
@@ -230,7 +230,7 @@
       "price": 135000,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 6
+      "quantity_available": 5
     },
     {
       "id": "SKU-0143",
@@ -430,7 +430,7 @@
       "price": 10000,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 88
+      "quantity_available": 86
     },
     {
       "id": "SKU-0094",
@@ -480,7 +480,7 @@
       "price": 4985,
       "retail_price": 8000,
       "desired_price": 5000,
-      "quantity_available": 151
+      "quantity_available": 149
     },
     {
       "id": "SKU-0447",
@@ -490,7 +490,7 @@
       "price": 6229,
       "retail_price": 15000,
       "desired_price": 7000,
-      "quantity_available": 4
+      "quantity_available": 2
     },
     {
       "id": "SKU-0072",
@@ -500,7 +500,7 @@
       "price": 5000,
       "retail_price": 8000,
       "desired_price": 5000,
-      "quantity_available": 164
+      "quantity_available": 162
     },
     {
       "id": "SKU-0112",
@@ -520,7 +520,7 @@
       "price": 120000,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 9
+      "quantity_available": 8
     },
     {
       "id": "SKU-0472",
@@ -810,7 +810,7 @@
       "price": 40000,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 1
+      "quantity_available": 0
     },
     {
       "id": "SKU-0021",
@@ -890,7 +890,7 @@
       "price": 400000,
       "retail_price": 550000,
       "desired_price": 400000,
-      "quantity_available": 21
+      "quantity_available": 20
     },
     {
       "id": "SKU-0007",
@@ -920,7 +920,17 @@
       "price": 65000,
       "retail_price": 90000,
       "desired_price": 65000,
-      "quantity_available": 4
+      "quantity_available": 2
+    },
+    {
+      "id": "SKU-0473",
+      "name": "lược dâu",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 39,
+      "retail_price": 155000,
+      "desired_price": 110000,
+      "quantity_available": 0
     },
     {
       "id": "SKU-0469",
@@ -970,7 +980,7 @@
       "price": 165000,
       "retail_price": 226000,
       "desired_price": 165000,
-      "quantity_available": 4
+      "quantity_available": 3
     },
     {
       "id": "SKU-0224",
@@ -1030,7 +1040,7 @@
       "price": 219169,
       "retail_price": 358000,
       "desired_price": 260000,
-      "quantity_available": 30
+      "quantity_available": 29
     },
     {
       "id": "SKU-0081",
@@ -1170,7 +1180,7 @@
       "price": 43201,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 57
+      "quantity_available": 55
     },
     {
       "id": "SKU-0425",
@@ -1180,7 +1190,7 @@
       "price": 39198,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 29
+      "quantity_available": 28
     },
     {
       "id": "SKU-0431",
@@ -1200,7 +1210,7 @@
       "price": 148770,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 59
+      "quantity_available": 56
     },
     {
       "id": "SKU-0432",
@@ -1210,7 +1220,7 @@
       "price": 272475,
       "retail_price": 390000,
       "desired_price": 285000,
-      "quantity_available": 4
+      "quantity_available": 3
     },
     {
       "id": "SKU-0420",
@@ -1230,7 +1240,7 @@
       "price": 156600,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 13
+      "quantity_available": 12
     },
     {
       "id": "SKU-0415",
@@ -1297,20 +1307,20 @@
       "name": "kẹp hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 9277,
+      "price": 7850,
       "retail_price": 25000,
       "desired_price": 10000,
-      "quantity_available": 0
+      "quantity_available": 30
     },
     {
       "id": "SKU-0423",
       "name": "kẹp xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 9639,
+      "price": 7850,
       "retail_price": 20000,
       "desired_price": 10000,
-      "quantity_available": 0
+      "quantity_available": 32
     },
     {
       "id": "SKU-0407",
@@ -1320,7 +1330,7 @@
       "price": 149138,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 20
+      "quantity_available": 18
     },
     {
       "id": "SKU-0408",
@@ -1340,7 +1350,7 @@
       "price": 149869,
       "retail_price": 220000,
       "desired_price": 160000,
-      "quantity_available": 8
+      "quantity_available": 7
     },
     {
       "id": "SKU-0410",
@@ -1350,7 +1360,7 @@
       "price": 150567,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 14
+      "quantity_available": 13
     },
     {
       "id": "SKU-0411",
@@ -1390,7 +1400,7 @@
       "price": 219240,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 15
+      "quantity_available": 13
     },
     {
       "id": "SKU-0406",
@@ -1410,7 +1420,7 @@
       "price": 105874,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 41
+      "quantity_available": 40
     },
     {
       "id": "SKU-0422",
@@ -1430,7 +1440,7 @@
       "price": 305970,
       "retail_price": 440000,
       "desired_price": 314000,
-      "quantity_available": 1
+      "quantity_available": 0
     },
     {
       "id": "SKU-0428",
@@ -1480,7 +1490,7 @@
       "price": 133065,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 1
+      "quantity_available": 0
     },
     {
       "id": "SKU-0399",
@@ -1530,27 +1540,27 @@
       "price": 129921,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 11
+      "quantity_available": 9
     },
     {
       "id": "SKU-0445",
       "name": "vial hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 12610,
+      "price": 13738,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 0
+      "quantity_available": 49
     },
     {
       "id": "SKU-0446",
       "name": "vial xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 12610,
+      "price": 13738,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 0
+      "quantity_available": 49
     },
     {
       "id": "SKU-0466",
@@ -1640,7 +1650,7 @@
       "price": 40000,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 8
+      "quantity_available": 7
     },
     {
       "id": "SKU-0450",
@@ -1660,7 +1670,7 @@
       "price": 40000,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 13
+      "quantity_available": 12
     },
     {
       "id": "SKU-0100",
@@ -1710,7 +1720,7 @@
       "price": 195000,
       "retail_price": 270000,
       "desired_price": 195000,
-      "quantity_available": 33
+      "quantity_available": 32
     },
     {
       "id": "SKU-0019",
@@ -1760,7 +1770,7 @@
       "price": 260000,
       "retail_price": 359999,
       "desired_price": 260000,
-      "quantity_available": 5
+      "quantity_available": 4
     },
     {
       "id": "SKU-0168",
@@ -1787,10 +1797,10 @@
       "name": "túi",
       "warehouse": "FK",
       "collection": "sò",
-      "price": 45000,
+      "price": 39250,
       "retail_price": 62000,
       "desired_price": 45000,
-      "quantity_available": 0
+      "quantity_available": 62
     },
     {
       "id": "SKU-0217",
@@ -1880,7 +1890,7 @@
       "price": 217739,
       "retail_price": 330000,
       "desired_price": 240000,
-      "quantity_available": 43
+      "quantity_available": 42
     },
     {
       "id": "SKU-0371",
@@ -2060,7 +2070,7 @@
       "price": 129195,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 25
+      "quantity_available": 24
     },
     {
       "id": "SKU-0379",
@@ -2070,7 +2080,7 @@
       "price": 194000,
       "retail_price": 265000,
       "desired_price": 194000,
-      "quantity_available": 11
+      "quantity_available": 10
     },
     {
       "id": "SKU-0048",
@@ -2100,7 +2110,7 @@
       "price": 10000,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 13
+      "quantity_available": 11
     },
     {
       "id": "SKU-0133",
@@ -2110,7 +2120,7 @@
       "price": 12000,
       "retail_price": 21000,
       "desired_price": 12000,
-      "quantity_available": 35
+      "quantity_available": 33
     },
     {
       "id": "SKU-0131",
@@ -2200,7 +2210,7 @@
       "price": 105000,
       "retail_price": 150000,
       "desired_price": 105000,
-      "quantity_available": 32
+      "quantity_available": 31
     },
     {
       "id": "SKU-0052",
@@ -2250,7 +2260,7 @@
       "price": 135000,
       "retail_price": 190000,
       "desired_price": 135000,
-      "quantity_available": 6
+      "quantity_available": 5
     },
     {
       "id": "SKU-0138",
@@ -2290,7 +2300,7 @@
       "price": 20183,
       "retail_price": 90000,
       "desired_price": 65000,
-      "quantity_available": 25
+      "quantity_available": 23
     },
     {
       "id": "SKU-0178",
@@ -2300,7 +2310,7 @@
       "price": 45000,
       "retail_price": 75000,
       "desired_price": 45000,
-      "quantity_available": 34
+      "quantity_available": 33
     },
     {
       "id": "SKU-0195",
@@ -2310,7 +2320,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 81
+      "quantity_available": 79
     },
     {
       "id": "SKU-0201",
@@ -2410,7 +2420,7 @@
       "price": 15000,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 17
+      "quantity_available": 18
     },
     {
       "id": "SKU-0150",
@@ -2510,7 +2520,7 @@
       "price": 115000,
       "retail_price": 160000,
       "desired_price": 115000,
-      "quantity_available": 33
+      "quantity_available": 31
     },
     {
       "id": "SKU-0156",
@@ -2520,7 +2530,7 @@
       "price": 11265,
       "retail_price": 21000,
       "desired_price": 12000,
-      "quantity_available": 10
+      "quantity_available": 9
     },
     {
       "id": "SKU-0191",
@@ -2550,7 +2560,7 @@
       "price": 245000,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 4
+      "quantity_available": 3
     },
     {
       "id": "SKU-0190",

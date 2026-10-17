@@ -1,8 +1,19 @@
 {
   "collection": "kỷ niệm 10",
   "slug": "ky-niem-10",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "SKU-0473",
+      "name": "lược dâu",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 39,
+      "retail_price": 155000,
+      "desired_price": 110000,
+      "quantity_available": 0,
+      "image": null
+    },
     {
       "id": "SKU-0469",
       "name": "lược uni",
