@@ -33,7 +33,7 @@
       "price": 43201,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 54,
+      "quantity_available": 52,
       "image": "images/SKU-0426.jpg"
     },
     {
@@ -44,7 +44,7 @@
       "price": 39198,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 28,
+      "quantity_available": 27,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "price": 148770,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 51,
+      "quantity_available": 50,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -99,7 +99,7 @@
       "price": 156600,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 12,
+      "quantity_available": 11,
       "image": "images/SKU-0419.jpg"
     },
     {
@@ -118,10 +118,10 @@
       "name": "highlight CW04",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 138513,
+      "price": 133450,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 0,
+      "quantity_available": 7,
       "image": "images/SKU-0417.jpg"
     },
     {
@@ -129,10 +129,10 @@
       "name": "highlight PK03",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 139009,
+      "price": 133450,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 0,
+      "quantity_available": 23,
       "image": "images/SKU-0416.jpg"
     },
     {
@@ -242,7 +242,7 @@
       "price": 153443,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 1,
+      "quantity_available": 2,
       "image": "images/SKU-0411.jpg"
     },
     {
@@ -250,10 +250,10 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 219522,
+      "price": 219716,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 13,
+      "quantity_available": 43,
       "image": "images/SKU-0404.jpg"
     },
     {
@@ -297,7 +297,7 @@
       "price": 105874,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 39,
+      "quantity_available": 37,
       "image": "images/SKU-0421.jpg"
     },
     {
@@ -305,10 +305,10 @@
       "name": "móc xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 105705,
+      "price": 105951,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 2,
+      "quantity_available": 32,
       "image": "images/SKU-0422.jpg"
     },
     {
@@ -396,7 +396,7 @@
       "price": 129763,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 9,
+      "quantity_available": 10,
       "image": "images/SKU-0400.jpg"
     },
     {
