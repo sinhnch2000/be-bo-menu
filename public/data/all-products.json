@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:37:41.109Z",
+  "generated_at": "2026-10-18T14:01:47.100Z",
   "count": 273,
   "items": [
     {
@@ -280,7 +280,7 @@
       "price": 129243,
       "retail_price": 213000,
       "desired_price": 155000,
-      "quantity_available": 18
+      "quantity_available": 17
     },
     {
       "id": "SKU-0014",
@@ -430,7 +430,7 @@
       "price": 10000,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 77
+      "quantity_available": 78
     },
     {
       "id": "SKU-0094",
@@ -1240,7 +1240,7 @@
       "price": 166150,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 48
+      "quantity_available": 47
     },
     {
       "id": "SKU-0415",
@@ -1730,7 +1730,7 @@
       "price": 192841,
       "retail_price": 255000,
       "desired_price": 200000,
-      "quantity_available": 44
+      "quantity_available": 45
     },
     {
       "id": "SKU-0266",
@@ -2210,7 +2210,7 @@
       "price": 105000,
       "retail_price": 150000,
       "desired_price": 105000,
-      "quantity_available": 31
+      "quantity_available": 30
     },
     {
       "id": "SKU-0052",
@@ -2340,7 +2340,7 @@
       "price": 145215,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 32
+      "quantity_available": 33
     },
     {
       "id": "SKU-0194",
