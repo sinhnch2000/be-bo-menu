@@ -121,7 +121,7 @@
       "price": 36130,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 15,
+      "quantity_available": 16,
       "image": "images/SKU-0368.jpg"
     },
     {
@@ -185,8 +185,8 @@
       "warehouse": "FK",
       "collection": "sò",
       "price": 192841,
-      "retail_price": 255000,
-      "desired_price": 200000,
+      "retail_price": 267000,
+      "desired_price": 195000,
       "quantity_available": 43,
       "image": "images/SKU-0019.webp"
     },

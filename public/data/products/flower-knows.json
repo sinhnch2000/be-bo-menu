@@ -22,7 +22,7 @@
       "price": 7850,
       "retail_price": 14000,
       "desired_price": 10000,
-      "quantity_available": 49,
+      "quantity_available": 47,
       "image": null
     },
     {
@@ -33,7 +33,7 @@
       "price": 10000,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 73,
+      "quantity_available": 76,
       "image": "images/SKU-0073.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "price": 4985,
       "retail_price": 8000,
       "desired_price": 5000,
-      "quantity_available": 125,
+      "quantity_available": 126,
       "image": "images/SKU-0057.webp"
     },
     {
@@ -97,9 +97,9 @@
       "warehouse": "FK",
       "collection": "Flower Knows",
       "price": 4727,
-      "retail_price": 15000,
+      "retail_price": 10000,
       "desired_price": 7000,
-      "quantity_available": 179,
+      "quantity_available": 178,
       "image": "images/SKU-0447.jpg"
     },
     {
@@ -132,7 +132,7 @@
       "price": 120000,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 6,
+      "quantity_available": 5,
       "image": "images/SKU-0118.webp"
     },
     {
