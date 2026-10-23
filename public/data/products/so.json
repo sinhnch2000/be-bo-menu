@@ -121,7 +121,7 @@
       "price": 36130,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 14,
+      "quantity_available": 13,
       "image": "images/SKU-0368.jpg"
     },
     {
@@ -176,7 +176,7 @@
       "price": 195000,
       "retail_price": 270000,
       "desired_price": 195000,
-      "quantity_available": 23,
+      "quantity_available": 21,
       "image": "images/SKU-0124.jpg"
     },
     {
@@ -187,7 +187,7 @@
       "price": 192841,
       "retail_price": 267000,
       "desired_price": 195000,
-      "quantity_available": 38,
+      "quantity_available": 37,
       "image": "images/SKU-0019.webp"
     },
     {
@@ -229,9 +229,9 @@
       "warehouse": "FK",
       "collection": "sò",
       "price": 260000,
-      "retail_price": 359999,
+      "retail_price": 360000,
       "desired_price": 260000,
-      "quantity_available": 2,
+      "quantity_available": 1,
       "image": "images/SKU-0140.webp"
     },
     {
