@@ -64,8 +64,8 @@
       "warehouse": "FK",
       "collection": "Choco",
       "price": 202100,
-      "retail_price": 365000,
-      "desired_price": 265000,
+      "retail_price": 330000,
+      "desired_price": 240000,
       "quantity_available": 2,
       "image": "images/SKU-0128.webp"
     },
