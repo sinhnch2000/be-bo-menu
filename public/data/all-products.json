@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:10:16.224Z",
+  "generated_at": "2026-10-24T00:41:54.580Z",
   "count": 273,
   "items": [
     {
@@ -40,7 +40,7 @@
       "price": 114776,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 22
+      "quantity_available": 23
     },
     {
       "id": "SKU-0397",
@@ -310,7 +310,7 @@
       "price": 1000,
       "retail_price": 5000,
       "desired_price": 1000,
-      "quantity_available": 43
+      "quantity_available": 42
     },
     {
       "id": "SKU-0085",
@@ -430,7 +430,7 @@
       "price": 10000,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 62
+      "quantity_available": 63
     },
     {
       "id": "SKU-0094",
@@ -460,7 +460,7 @@
       "price": 2748,
       "retail_price": 7000,
       "desired_price": 4000,
-      "quantity_available": 98
+      "quantity_available": 99
     },
     {
       "id": "SKU-0056",
@@ -490,7 +490,7 @@
       "price": 4727,
       "retail_price": 10000,
       "desired_price": 7000,
-      "quantity_available": 171
+      "quantity_available": 172
     },
     {
       "id": "SKU-0072",
@@ -800,7 +800,7 @@
       "price": 58230,
       "retail_price": 80000,
       "desired_price": 60000,
-      "quantity_available": 51
+      "quantity_available": 50
     },
     {
       "id": "SKU-0041",
@@ -1190,7 +1190,7 @@
       "price": 39198,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 18
+      "quantity_available": 17
     },
     {
       "id": "SKU-0431",
@@ -1230,7 +1230,7 @@
       "price": 148770,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 5
+      "quantity_available": 4
     },
     {
       "id": "SKU-0419",
@@ -1240,7 +1240,7 @@
       "price": 166150,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 29
+      "quantity_available": 28
     },
     {
       "id": "SKU-0415",
@@ -1730,7 +1730,7 @@
       "price": 192841,
       "retail_price": 267000,
       "desired_price": 195000,
-      "quantity_available": 35
+      "quantity_available": 36
     },
     {
       "id": "SKU-0266",
@@ -1860,7 +1860,7 @@
       "price": 165000,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 14
+      "quantity_available": 13
     },
     {
       "id": "SKU-0141",
@@ -1890,7 +1890,7 @@
       "price": 217739,
       "retail_price": 330000,
       "desired_price": 240000,
-      "quantity_available": 28
+      "quantity_available": 27
     },
     {
       "id": "SKU-0371",
@@ -2110,7 +2110,7 @@
       "price": 8295,
       "retail_price": 15000,
       "desired_price": 10000,
-      "quantity_available": 51
+      "quantity_available": 50
     },
     {
       "id": "SKU-0133",
@@ -2210,7 +2210,7 @@
       "price": 105000,
       "retail_price": 150000,
       "desired_price": 105000,
-      "quantity_available": 25
+      "quantity_available": 24
     },
     {
       "id": "SKU-0052",
@@ -2340,7 +2340,7 @@
       "price": 145215,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 26
+      "quantity_available": 27
     },
     {
       "id": "SKU-0194",
@@ -2360,7 +2360,7 @@
       "price": 125600,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 17
+      "quantity_available": 18
     },
     {
       "id": "SKU-0162",
@@ -2410,7 +2410,7 @@
       "price": 15000,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 10
+      "quantity_available": 9
     },
     {
       "id": "SKU-0166",
@@ -2530,7 +2530,7 @@
       "price": 11265,
       "retail_price": 21000,
       "desired_price": 12000,
-      "quantity_available": 7
+      "quantity_available": 8
     },
     {
       "id": "SKU-0191",
@@ -2560,7 +2560,7 @@
       "price": 227000,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 0
+      "quantity_available": 1
     },
     {
       "id": "SKU-0190",
