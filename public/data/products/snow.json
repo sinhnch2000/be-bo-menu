@@ -33,7 +33,7 @@
       "price": 43201,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 38,
+      "quantity_available": 37,
       "image": "images/SKU-0426.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "price": 148770,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 40,
+      "quantity_available": 38,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -132,7 +132,7 @@
       "price": 133450,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 15,
+      "quantity_available": 14,
       "image": "images/SKU-0416.jpg"
     },
     {
@@ -176,7 +176,7 @@
       "price": 7850,
       "retail_price": 25000,
       "desired_price": 10000,
-      "quantity_available": 23,
+      "quantity_available": 21,
       "image": "images/SKU-0424.jpg"
     },
     {
@@ -275,7 +275,7 @@
       "price": 219240,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 10,
+      "quantity_available": 9,
       "image": "images/SKU-0405.jpg"
     },
     {
@@ -297,7 +297,7 @@
       "price": 105874,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 27,
+      "quantity_available": 26,
       "image": "images/SKU-0421.jpg"
     },
     {
@@ -308,7 +308,7 @@
       "price": 105951,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 29,
+      "quantity_available": 28,
       "image": "images/SKU-0422.jpg"
     },
     {
@@ -429,7 +429,7 @@
       "price": 129921,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 1,
+      "quantity_available": 0,
       "image": "images/SKU-0403.jpg"
     },
     {
