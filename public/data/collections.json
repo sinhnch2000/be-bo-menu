@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:56:03.975Z",
+  "generated_at": "2026-10-29T07:04:51.668Z",
   "collections": [
     {
       "name": "Choco",
@@ -48,6 +48,10 @@
     {
       "name": "LA",
       "slug": "la"
+    },
+    {
+      "name": "LA ver1",
+      "slug": "la-ver1"
     },
     {
       "name": "mermaid",

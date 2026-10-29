@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T00:56:03.975Z",
-  "count": 273,
+  "generated_at": "2026-10-29T07:04:51.669Z",
+  "count": 276,
   "items": [
     {
       "id": "SKU-0448",
@@ -573,6 +573,16 @@
       "quantity_available": 0
     },
     {
+      "id": "SKU-0477",
+      "name": "cọ má nâu",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 39250,
+      "retail_price": 62000,
+      "desired_price": 45000,
+      "quantity_available": 0
+    },
+    {
       "id": "SKU-0001",
       "name": "gương hồng",
       "warehouse": "FK",
@@ -1050,6 +1060,26 @@
       "price": 40220,
       "retail_price": 80000,
       "desired_price": 55000,
+      "quantity_available": 0
+    },
+    {
+      "id": "SKU-0476",
+      "name": "highlight hồng",
+      "warehouse": "FK",
+      "collection": "LA ver1",
+      "price": 219800,
+      "retail_price": 316000,
+      "desired_price": 230000,
+      "quantity_available": 0
+    },
+    {
+      "id": "SKU-0475",
+      "name": "highlight trắng",
+      "warehouse": "FK",
+      "collection": "LA ver1",
+      "price": 219800,
+      "retail_price": 316000,
+      "desired_price": 230000,
       "quantity_available": 0
     },
     {

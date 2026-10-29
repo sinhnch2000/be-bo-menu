@@ -1,0 +1,29 @@
+{
+  "collection": "LA ver1",
+  "slug": "la-ver1",
+  "count": 2,
+  "items": [
+    {
+      "id": "SKU-0476",
+      "name": "highlight hồng",
+      "warehouse": "FK",
+      "collection": "LA ver1",
+      "price": 219800,
+      "retail_price": 316000,
+      "desired_price": 230000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0475",
+      "name": "highlight trắng",
+      "warehouse": "FK",
+      "collection": "LA ver1",
+      "price": 219800,
+      "retail_price": 316000,
+      "desired_price": 230000,
+      "quantity_available": 0,
+      "image": null
+    }
+  ]
+}

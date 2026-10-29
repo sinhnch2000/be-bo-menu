@@ -1,7 +1,7 @@
 {
   "collection": "gấu",
   "slug": "gau",
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "id": "SKU-0095",
@@ -44,6 +44,17 @@
       "price": 60000,
       "retail_price": 85000,
       "desired_price": 60000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0477",
+      "name": "cọ má nâu",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 39250,
+      "retail_price": 62000,
+      "desired_price": 45000,
       "quantity_available": 0,
       "image": null
     },
