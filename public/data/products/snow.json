@@ -30,10 +30,10 @@
       "name": "cọ má hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 43201,
+      "price": 43189,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 36,
+      "quantity_available": 67,
       "image": "images/SKU-0426.jpg"
     },
     {
@@ -41,10 +41,10 @@
       "name": "cọ má xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 39198,
+      "price": 39226,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 16,
+      "quantity_available": 34,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -63,10 +63,10 @@
       "name": "gương hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 148770,
+      "price": 148936,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 39,
+      "quantity_available": 68,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -85,10 +85,10 @@
       "name": "gương xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 148770,
+      "price": 149116,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 3,
+      "quantity_available": 33,
       "image": "images/SKU-0420.jpg"
     },
     {
@@ -96,10 +96,10 @@
       "name": "gương xanh hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 166150,
+      "price": 167844,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 22,
+      "quantity_available": 62,
       "image": "images/SKU-0419.jpg"
     },
     {
@@ -129,10 +129,10 @@
       "name": "highlight PK03",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 133450,
+      "price": 131142,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 14,
+      "quantity_available": 34,
       "image": "images/SKU-0416.jpg"
     },
     {
@@ -140,10 +140,10 @@
       "name": "highlight SW01",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 139257,
+      "price": 129525,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 0,
+      "quantity_available": 20,
       "image": "images/SKU-0414.jpg"
     },
     {
@@ -217,10 +217,10 @@
       "name": "má 03",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 149869,
+      "price": 149150,
       "retail_price": 220000,
       "desired_price": 160000,
-      "quantity_available": 0,
+      "quantity_available": 30,
       "image": "images/SKU-0409.jpg"
     },
     {
@@ -371,10 +371,10 @@
       "name": "son 01",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 133065,
+      "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 0,
+      "quantity_available": 31,
       "image": "images/SKU-0398.jpg"
     },
     {
@@ -393,10 +393,10 @@
       "name": "son 03",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 129763,
+      "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 0,
+      "quantity_available": 6,
       "image": "images/SKU-0400.jpg"
     },
     {
@@ -404,10 +404,10 @@
       "name": "son 04",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 133065,
+      "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 0,
+      "quantity_available": 20,
       "image": "images/SKU-0401.jpg"
     },
     {

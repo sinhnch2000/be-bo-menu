@@ -1,7 +1,7 @@
 {
   "collection": "hồ điệp",
   "slug": "ho-diep",
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "id": "SKU-0022",
@@ -12,6 +12,17 @@
       "retail_price": 330000,
       "desired_price": 255000,
       "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0478",
+      "name": "cọ má tím",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 39250,
+      "retail_price": 62000,
+      "desired_price": 45000,
+      "quantity_available": 28,
       "image": null
     },
     {

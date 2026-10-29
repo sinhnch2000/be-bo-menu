@@ -63,10 +63,10 @@
       "name": "cọ má trắng",
       "warehouse": "FK",
       "collection": "fairy",
-      "price": 41422,
+      "price": 43175,
       "retail_price": 69000,
       "desired_price": 50000,
-      "quantity_available": 0,
+      "quantity_available": 15,
       "image": null
     },
     {

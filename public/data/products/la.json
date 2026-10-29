@@ -41,10 +41,10 @@
       "name": "highlight L03",
       "warehouse": "FK",
       "collection": "LA",
-      "price": 157000,
+      "price": 155038,
       "retail_price": 221000,
       "desired_price": 161000,
-      "quantity_available": 30,
+      "quantity_available": 60,
       "image": "images/SKU-0224.webp"
     },
     {

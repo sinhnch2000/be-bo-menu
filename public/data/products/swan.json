@@ -63,10 +63,10 @@
       "name": "má 02",
       "warehouse": "FK",
       "collection": "swan",
-      "price": 165000,
+      "price": 152569,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 11,
+      "quantity_available": 50,
       "image": "images/SKU-0437.jpg"
     },
     {
@@ -74,10 +74,10 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "swan",
-      "price": 227032.474798387,
+      "price": 211950,
       "retail_price": 315000,
       "desired_price": 230000,
-      "quantity_available": 0,
+      "quantity_available": 40,
       "image": "images/SKU-0141.webp"
     },
     {
@@ -99,7 +99,7 @@
       "price": 217739,
       "retail_price": 330000,
       "desired_price": 240000,
-      "quantity_available": 25,
+      "quantity_available": 24,
       "image": "images/SKU-0065.webp"
     },
     {

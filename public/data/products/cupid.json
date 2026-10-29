@@ -11,7 +11,7 @@
       "price": 117750,
       "retail_price": 200000,
       "desired_price": 145000,
-      "quantity_available": 24,
+      "quantity_available": 23,
       "image": "images/SKU-0117.webp"
     },
     {
@@ -162,10 +162,10 @@
       "name": "son 06",
       "warehouse": "FK",
       "collection": "cupid",
-      "price": 135000,
+      "price": 121675,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 0,
+      "quantity_available": 18,
       "image": "images/SKU-0199.webp"
     },
     {

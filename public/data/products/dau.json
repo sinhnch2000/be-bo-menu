@@ -19,10 +19,10 @@
       "name": "gương mini xanh",
       "warehouse": "FK",
       "collection": "dâu",
-      "price": 109000,
+      "price": 86350,
       "retail_price": 150000,
       "desired_price": 109000,
-      "quantity_available": 0,
+      "quantity_available": 30,
       "image": "images/SKU-0111.webp"
     },
     {
@@ -41,10 +41,10 @@
       "name": "má 03",
       "warehouse": "FK",
       "collection": "dâu",
-      "price": 129243,
+      "price": 129466,
       "retail_price": 213000,
       "desired_price": 155000,
-      "quantity_available": 8,
+      "quantity_available": 37,
       "image": "images/SKU-0200.webp"
     },
     {

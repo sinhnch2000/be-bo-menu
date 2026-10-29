@@ -99,7 +99,7 @@
       "price": 176625,
       "retail_price": 255000,
       "desired_price": 185000,
-      "quantity_available": 25,
+      "quantity_available": 28,
       "image": "images/SKU-0004.webp"
     },
     {
@@ -129,10 +129,10 @@
       "name": "gương xanh",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 129195,
+      "price": 129442,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 17,
+      "quantity_available": 66,
       "image": "images/SKU-0006.webp"
     },
     {
@@ -187,7 +187,7 @@
       "price": 9893,
       "retail_price": 21000,
       "desired_price": 12000,
-      "quantity_available": 52,
+      "quantity_available": 51,
       "image": "images/SKU-0133.webp"
     },
     {
