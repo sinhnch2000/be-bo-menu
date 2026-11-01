@@ -1,8 +1,19 @@
 {
   "collection": "kỷ niệm 10",
   "slug": "ky-niem-10",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "SKU-0479",
+      "name": "gương để bàn uni",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 255125,
+      "retail_price": 365000,
+      "desired_price": 270000,
+      "quantity_available": 37,
+      "image": null
+    },
     {
       "id": "SKU-0473",
       "name": "lược dâu",
@@ -11,7 +22,7 @@
       "price": 98125,
       "retail_price": 155000,
       "desired_price": 110000,
-      "quantity_available": 20,
+      "quantity_available": 17,
       "image": null
     },
     {
