@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:35:27.045Z",
+  "generated_at": "2026-11-02T06:00:24.058Z",
   "count": 279,
   "items": [
     {
@@ -680,7 +680,7 @@
       "price": 192934,
       "retail_price": 310000,
       "desired_price": 225000,
-      "quantity_available": 0
+      "quantity_available": 1
     },
     {
       "id": "SKU-0029",
