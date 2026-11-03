@@ -9,8 +9,8 @@
       "warehouse": "FK",
       "collection": "kỷ niệm 10",
       "price": 255125,
-      "retail_price": 350000,
-      "desired_price": 255125,
+      "retail_price": 365000,
+      "desired_price": 270000,
       "quantity_available": 27,
       "image": null
     },
@@ -21,7 +21,7 @@
       "collection": "kỷ niệm 10",
       "price": 255125,
       "retail_price": 290000,
-      "desired_price": 255125,
+      "desired_price": 260000,
       "quantity_available": 6,
       "image": null
     },
@@ -33,7 +33,7 @@
       "price": 255125,
       "retail_price": 365000,
       "desired_price": 270000,
-      "quantity_available": 64,
+      "quantity_available": 63,
       "image": null
     },
     {
@@ -53,8 +53,8 @@
       "warehouse": "FK",
       "collection": "kỷ niệm 10",
       "price": 117750,
-      "retail_price": 162000,
-      "desired_price": 117750,
+      "retail_price": 170000,
+      "desired_price": 122000,
       "quantity_available": 30,
       "image": null
     },
@@ -64,9 +64,9 @@
       "warehouse": "FK",
       "collection": "kỷ niệm 10",
       "price": 117750,
-      "retail_price": 162000,
-      "desired_price": 117750,
-      "quantity_available": 30,
+      "retail_price": 170000,
+      "desired_price": 122000,
+      "quantity_available": 29,
       "image": null
     },
     {
@@ -77,7 +77,7 @@
       "price": 98125,
       "retail_price": 155000,
       "desired_price": 110000,
-      "quantity_available": 18,
+      "quantity_available": 17,
       "image": null
     },
     {
@@ -88,7 +88,7 @@
       "price": 98125,
       "retail_price": 155000,
       "desired_price": 110000,
-      "quantity_available": 19,
+      "quantity_available": 18,
       "image": null
     }
   ]
