@@ -44,7 +44,7 @@
       "price": 39226,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 30,
+      "quantity_available": 29,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "price": 149116,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 30,
+      "quantity_available": 29,
       "image": "images/SKU-0420.jpg"
     },
     {
@@ -99,7 +99,7 @@
       "price": 167844,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 55,
+      "quantity_available": 56,
       "image": "images/SKU-0419.jpg"
     },
     {
@@ -187,7 +187,7 @@
       "price": 7850,
       "retail_price": 20000,
       "desired_price": 10000,
-      "quantity_available": 23,
+      "quantity_available": 22,
       "image": "images/SKU-0423.jpg"
     },
     {

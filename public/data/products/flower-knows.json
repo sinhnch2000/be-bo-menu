@@ -99,7 +99,7 @@
       "price": 4727,
       "retail_price": 10000,
       "desired_price": 7000,
-      "quantity_available": 162,
+      "quantity_available": 161,
       "image": "images/SKU-0447.jpg"
     },
     {
@@ -129,10 +129,10 @@
       "name": "túi hồng trong suốt",
       "warehouse": "FK",
       "collection": "Flower Knows",
-      "price": 120000,
+      "price": 64432,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 4,
+      "quantity_available": 33,
       "image": "images/SKU-0118.webp"
     },
     {

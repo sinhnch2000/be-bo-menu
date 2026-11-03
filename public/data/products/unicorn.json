@@ -33,7 +33,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 39,
+      "quantity_available": 40,
       "image": "images/SKU-0195.jpg"
     },
     {
@@ -305,10 +305,10 @@
       "name": "phủ hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 227000,
+      "price": 227635,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 1,
+      "quantity_available": 41,
       "image": "images/SKU-0152.jpg"
     },
     {

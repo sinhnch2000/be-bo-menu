@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T06:46:10.144Z",
-  "count": 279,
+  "generated_at": "2026-11-03T15:06:27.281Z",
+  "count": 284,
   "items": [
     {
       "id": "SKU-0448",
@@ -310,7 +310,7 @@
       "price": 1000,
       "retail_price": 5000,
       "desired_price": 1000,
-      "quantity_available": 40
+      "quantity_available": 39
     },
     {
       "id": "SKU-0085",
@@ -490,7 +490,7 @@
       "price": 4727,
       "retail_price": 10000,
       "desired_price": 7000,
-      "quantity_available": 162
+      "quantity_available": 161
     },
     {
       "id": "SKU-0072",
@@ -517,10 +517,10 @@
       "name": "túi hồng trong suốt",
       "warehouse": "FK",
       "collection": "Flower Knows",
-      "price": 120000,
+      "price": 64432,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 4
+      "quantity_available": 33
     },
     {
       "id": "SKU-0472",
@@ -943,6 +943,26 @@
       "quantity_available": 0
     },
     {
+      "id": "SKU-0482",
+      "name": "gương để bàn dâu",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 255125,
+      "retail_price": 350000,
+      "desired_price": 255125,
+      "quantity_available": 27
+    },
+    {
+      "id": "SKU-0483",
+      "name": "gương để bàn dâu móp",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 255125,
+      "retail_price": 290000,
+      "desired_price": 255125,
+      "quantity_available": 6
+    },
+    {
       "id": "SKU-0479",
       "name": "gương để bàn uni",
       "warehouse": "FK",
@@ -950,7 +970,37 @@
       "price": 255125,
       "retail_price": 365000,
       "desired_price": 270000,
-      "quantity_available": 37
+      "quantity_available": 64
+    },
+    {
+      "id": "SKU-0481",
+      "name": "gương để bàn uni móp",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 255125,
+      "retail_price": 290000,
+      "desired_price": 260000,
+      "quantity_available": 3
+    },
+    {
+      "id": "SKU-0485",
+      "name": "gương mini dâu",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 117750,
+      "retail_price": 162000,
+      "desired_price": 117750,
+      "quantity_available": 30
+    },
+    {
+      "id": "SKU-0484",
+      "name": "gương mini uni",
+      "warehouse": "FK",
+      "collection": "kỷ niệm 10",
+      "price": 117750,
+      "retail_price": 162000,
+      "desired_price": 117750,
+      "quantity_available": 30
     },
     {
       "id": "SKU-0473",
@@ -1240,7 +1290,7 @@
       "price": 39226,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 30
+      "quantity_available": 29
     },
     {
       "id": "SKU-0431",
@@ -1280,7 +1330,7 @@
       "price": 149116,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 30
+      "quantity_available": 29
     },
     {
       "id": "SKU-0419",
@@ -1290,7 +1340,7 @@
       "price": 167844,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 55
+      "quantity_available": 56
     },
     {
       "id": "SKU-0415",
@@ -1370,7 +1420,7 @@
       "price": 7850,
       "retail_price": 20000,
       "desired_price": 10000,
-      "quantity_available": 23
+      "quantity_available": 22
     },
     {
       "id": "SKU-0407",
@@ -2370,7 +2420,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 39
+      "quantity_available": 40
     },
     {
       "id": "SKU-0201",
@@ -2617,10 +2667,10 @@
       "name": "phủ hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 227000,
+      "price": 227635,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 1
+      "quantity_available": 41
     },
     {
       "id": "SKU-0190",
