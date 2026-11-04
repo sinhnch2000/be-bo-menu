@@ -44,7 +44,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 36,
+      "quantity_available": 38,
       "image": "images/SKU-0195.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "price": 125600,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 11,
+      "quantity_available": 9,
       "image": "images/SKU-0193.webp"
     },
     {
@@ -176,7 +176,7 @@
       "price": 153075,
       "retail_price": 213000,
       "desired_price": 160000,
-      "quantity_available": 50,
+      "quantity_available": 49,
       "image": "images/SKU-0150.webp"
     },
     {
@@ -229,7 +229,7 @@
       "warehouse": "FK",
       "collection": "unicorn",
       "price": 180411,
-      "retail_price": 329000,
+      "retail_price": 275000,
       "desired_price": 200000,
       "quantity_available": 4,
       "image": "images/SKU-0161.webp"
@@ -286,7 +286,7 @@
       "price": 115000,
       "retail_price": 160000,
       "desired_price": 115000,
-      "quantity_available": 17,
+      "quantity_available": 18,
       "image": "images/SKU-0167.webp"
     },
     {
