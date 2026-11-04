@@ -1,7 +1,7 @@
 {
   "collection": "Flower Knows",
   "slug": "flower-knows",
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "SKU-0059",
@@ -11,7 +11,7 @@
       "price": 40000,
       "retail_price": 75000,
       "desired_price": 46000,
-      "quantity_available": 1,
+      "quantity_available": 3,
       "image": "images/SKU-0059.webp"
     },
     {
@@ -101,6 +101,17 @@
       "desired_price": 7000,
       "quantity_available": 159,
       "image": "images/SKU-0447.jpg"
+    },
+    {
+      "id": "SKU-0493",
+      "name": "Mút phủ tròn",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 1,
+      "retail_price": 15000,
+      "desired_price": 10000,
+      "quantity_available": 29,
+      "image": null
     },
     {
       "id": "SKU-0072",

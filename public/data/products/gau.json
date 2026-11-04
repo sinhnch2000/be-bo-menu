@@ -1,7 +1,7 @@
 {
   "collection": "gấu",
   "slug": "gau",
-  "count": 25,
+  "count": 28,
   "items": [
     {
       "id": "SKU-0095",
@@ -68,6 +68,17 @@
       "desired_price": 145000,
       "quantity_available": 0,
       "image": "images/SKU-0001.webp"
+    },
+    {
+      "id": "SKU-0489",
+      "name": "Gương hồng box xấu",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 125000,
+      "retail_price": 175000,
+      "desired_price": 125000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0074",
@@ -143,7 +154,7 @@
       "price": 155000,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 0,
+      "quantity_available": 1,
       "image": "images/SKU-0034.webp"
     },
     {
@@ -162,11 +173,22 @@
       "name": "mắt 02",
       "warehouse": "FK",
       "collection": "gấu",
-      "price": 192934,
+      "price": 186869,
       "retail_price": 310000,
       "desired_price": 225000,
-      "quantity_available": 0,
+      "quantity_available": 4,
       "image": "images/SKU-0018.webp"
+    },
+    {
+      "id": "SKU-0491",
+      "name": "Móc điện thoại",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 1,
+      "retail_price": 75000,
+      "desired_price": 55000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0029",
@@ -176,7 +198,7 @@
       "price": 120000,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 14,
+      "quantity_available": 13,
       "image": "images/SKU-0029.jpg"
     },
     {
@@ -187,7 +209,7 @@
       "price": 45000,
       "retail_price": 63000,
       "desired_price": 45000,
-      "quantity_available": 5,
+      "quantity_available": 6,
       "image": "images/SKU-0077.webp"
     },
     {
@@ -211,6 +233,17 @@
       "desired_price": 300000,
       "quantity_available": 0,
       "image": "images/SKU-0144.webp"
+    },
+    {
+      "id": "SKU-0486",
+      "name": "Sample",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 1,
+      "retail_price": 15000,
+      "desired_price": 10000,
+      "quantity_available": 4,
+      "image": null
     },
     {
       "id": "SKU-0127",

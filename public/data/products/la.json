@@ -1,7 +1,7 @@
 {
   "collection": "LA",
   "slug": "la",
-  "count": 11,
+  "count": 12,
   "items": [
     {
       "id": "SKU-0101",
@@ -44,7 +44,7 @@
       "price": 155038,
       "retail_price": 221000,
       "desired_price": 161000,
-      "quantity_available": 50,
+      "quantity_available": 52,
       "image": "images/SKU-0224.webp"
     },
     {
@@ -96,11 +96,22 @@
       "name": "măt 01",
       "warehouse": "FK",
       "collection": "LA",
-      "price": 219169,
+      "price": 218826,
       "retail_price": 358000,
-      "desired_price": 260000,
-      "quantity_available": 20,
+      "desired_price": 250000,
+      "quantity_available": 27,
       "image": "images/SKU-0107.webp"
+    },
+    {
+      "id": "SKU-0490",
+      "name": "Mắt 01 new seal nứt phấn",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 200000,
+      "retail_price": 265000,
+      "desired_price": 200000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0474",

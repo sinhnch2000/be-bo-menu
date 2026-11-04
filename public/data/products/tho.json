@@ -1,7 +1,7 @@
 {
   "collection": "thỏ",
   "slug": "tho",
-  "count": 34,
+  "count": 37,
   "items": [
     {
       "id": "SKU-0058",
@@ -33,7 +33,7 @@
       "price": 49757,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 20,
+      "quantity_available": 22,
       "image": "images/SKU-0045.webp"
     },
     {
@@ -44,7 +44,7 @@
       "price": 45000,
       "retail_price": 70000,
       "desired_price": 45000,
-      "quantity_available": 26,
+      "quantity_available": 23,
       "image": "images/SKU-0046.webp"
     },
     {
@@ -143,7 +143,7 @@
       "price": 194000,
       "retail_price": 265000,
       "desired_price": 194000,
-      "quantity_available": 7,
+      "quantity_available": 10,
       "image": "images/SKU-0379.jpg"
     },
     {
@@ -206,10 +206,10 @@
       "name": "má 03",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 150100,
+      "price": 149150,
       "retail_price": 230000,
       "desired_price": 160000,
-      "quantity_available": 0,
+      "quantity_available": 40,
       "image": "images/SKU-0142.webp"
     },
     {
@@ -239,10 +239,10 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 230000,
+      "price": 192963,
       "retail_price": 320000,
       "desired_price": 230000,
-      "quantity_available": 0,
+      "quantity_available": 5,
       "image": "images/SKU-0104.webp"
     },
     {
@@ -261,11 +261,22 @@
       "name": "mắt 03",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 234959,
+      "price": 231764,
       "retail_price": 336000,
       "desired_price": 240000,
-      "quantity_available": 21,
+      "quantity_available": 25,
       "image": "images/SKU-0028.webp"
+    },
+    {
+      "id": "SKU-0492",
+      "name": "Móc điện thoại",
+      "warehouse": "FK",
+      "collection": "thỏ",
+      "price": 1,
+      "retail_price": 75000,
+      "desired_price": 55000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0126",
@@ -286,7 +297,7 @@
       "price": 105000,
       "retail_price": 150000,
       "desired_price": 105000,
-      "quantity_available": 12,
+      "quantity_available": 13,
       "image": "images/SKU-0030.webp"
     },
     {
@@ -309,6 +320,17 @@
       "retail_price": 390000,
       "desired_price": 300000,
       "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0499",
+      "name": "Nước hoa xanh",
+      "warehouse": "FK",
+      "collection": "thỏ",
+      "price": 268380,
+      "retail_price": 398000,
+      "desired_price": 290000,
+      "quantity_available": 1,
       "image": null
     },
     {
@@ -341,7 +363,7 @@
       "price": 135000,
       "retail_price": 190000,
       "desired_price": 135000,
-      "quantity_available": 1,
+      "quantity_available": 0,
       "image": "images/SKU-0137.webp"
     },
     {
@@ -367,6 +389,17 @@
       "image": null
     },
     {
+      "id": "SKU-0500",
+      "name": "vial xanh",
+      "warehouse": "FK",
+      "collection": "thỏ",
+      "price": 1,
+      "retail_price": 21000,
+      "desired_price": 15000,
+      "quantity_available": 1,
+      "image": null
+    },
+    {
       "id": "SKU-0125",
       "name": "vỏ cushion hồng",
       "warehouse": "FK",
@@ -374,7 +407,7 @@
       "price": 200000,
       "retail_price": 275000,
       "desired_price": 200000,
-      "quantity_available": 0,
+      "quantity_available": 1,
       "image": "images/SKU-0125.webp"
     }
   ]

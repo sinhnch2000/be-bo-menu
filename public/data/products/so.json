@@ -1,7 +1,7 @@
 {
   "collection": "sò",
   "slug": "so",
-  "count": 24,
+  "count": 26,
   "items": [
     {
       "id": "SKU-0466",
@@ -121,7 +121,7 @@
       "price": 36130,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 10,
+      "quantity_available": 11,
       "image": "images/SKU-0368.jpg"
     },
     {
@@ -154,8 +154,19 @@
       "price": 153038,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 42,
+      "quantity_available": 33,
       "image": "images/SKU-0116.jpg"
+    },
+    {
+      "id": "SKU-0496",
+      "name": "Má 03 móp",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 140000,
+      "retail_price": 192000,
+      "desired_price": 140000,
+      "quantity_available": 8,
+      "image": null
     },
     {
       "id": "SKU-0084",
@@ -165,7 +176,7 @@
       "price": 153075,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 45,
+      "quantity_available": 47,
       "image": "images/SKU-0084.webp"
     },
     {
@@ -176,8 +187,19 @@
       "price": 195000,
       "retail_price": 270000,
       "desired_price": 195000,
-      "quantity_available": 13,
+      "quantity_available": 11,
       "image": "images/SKU-0124.jpg"
+    },
+    {
+      "id": "SKU-0487",
+      "name": "Mắt 01 móp",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 157800,
+      "retail_price": 217000,
+      "desired_price": 157800,
+      "quantity_available": 2,
+      "image": null
     },
     {
       "id": "SKU-0019",
@@ -187,7 +209,7 @@
       "price": 192841,
       "retail_price": 267000,
       "desired_price": 195000,
-      "quantity_available": 20,
+      "quantity_available": 16,
       "image": "images/SKU-0019.webp"
     },
     {
@@ -198,7 +220,7 @@
       "price": 157800,
       "retail_price": 217000,
       "desired_price": 157800,
-      "quantity_available": 0,
+      "quantity_available": 2,
       "image": "images/SKU-0266.webp"
     },
     {
@@ -228,10 +250,10 @@
       "name": "phủ xanh",
       "warehouse": "FK",
       "collection": "sò",
-      "price": 260000,
+      "price": 255360,
       "retail_price": 360000,
       "desired_price": 260000,
-      "quantity_available": 0,
+      "quantity_available": 1,
       "image": "images/SKU-0140.webp"
     },
     {

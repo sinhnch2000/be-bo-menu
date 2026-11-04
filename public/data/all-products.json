@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T01:20:25.980Z",
-  "count": 284,
+  "generated_at": "2026-11-04T09:10:48.267Z",
+  "count": 301,
   "items": [
     {
       "id": "SKU-0448",
@@ -50,7 +50,7 @@
       "price": 135000,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 1
+      "quantity_available": 0
     },
     {
       "id": "SKU-0128",
@@ -80,7 +80,7 @@
       "price": 117750,
       "retail_price": 200000,
       "desired_price": 145000,
-      "quantity_available": 22
+      "quantity_available": 23
     },
     {
       "id": "SKU-0002",
@@ -100,7 +100,7 @@
       "price": 275946,
       "retail_price": 385000,
       "desired_price": 280000,
-      "quantity_available": 2
+      "quantity_available": 6
     },
     {
       "id": "SKU-0220",
@@ -143,24 +143,54 @@
       "quantity_available": 0
     },
     {
+      "id": "SKU-0501",
+      "name": "má 01",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 125600,
+      "retail_price": 179000,
+      "desired_price": 130000,
+      "quantity_available": 40
+    },
+    {
       "id": "SKU-0465",
       "name": "măt 01",
       "warehouse": "FK",
       "collection": "cupid",
-      "price": 216273,
+      "price": 206176,
       "retail_price": 316000,
       "desired_price": 230000,
-      "quantity_available": 0
+      "quantity_available": 5
+    },
+    {
+      "id": "SKU-0502",
+      "name": "Mắt 01 new seal nứt phấn",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 170000,
+      "retail_price": 250000,
+      "desired_price": 180000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0106",
       "name": "măt 02",
       "warehouse": "FK",
       "collection": "cupid",
-      "price": 238244,
+      "price": 229512,
       "retail_price": 354000,
       "desired_price": 260000,
-      "quantity_available": 20
+      "quantity_available": 28
+    },
+    {
+      "id": "SKU-0497",
+      "name": "Nước hoa đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 280263,
+      "retail_price": 411000,
+      "desired_price": 300000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0129",
@@ -220,7 +250,7 @@
       "price": 121675,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 14
+      "quantity_available": 15
     },
     {
       "id": "SKU-0389",
@@ -243,6 +273,16 @@
       "quantity_available": 0
     },
     {
+      "id": "SKU-0498",
+      "name": "Vial đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 1,
+      "retail_price": 21000,
+      "desired_price": 15000,
+      "quantity_available": 1
+    },
+    {
       "id": "SKU-0091",
       "name": "gương hồng",
       "warehouse": "FK",
@@ -260,7 +300,7 @@
       "price": 86350,
       "retail_price": 150000,
       "desired_price": 109000,
-      "quantity_available": 27
+      "quantity_available": 28
     },
     {
       "id": "SKU-0031",
@@ -280,7 +320,17 @@
       "price": 129466,
       "retail_price": 213000,
       "desired_price": 155000,
-      "quantity_available": 31
+      "quantity_available": 39
+    },
+    {
+      "id": "SKU-0495",
+      "name": "Má 03 móp",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 130000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0014",
@@ -350,7 +400,7 @@
       "price": 51350,
       "retail_price": 71000,
       "desired_price": 51350,
-      "quantity_available": 17
+      "quantity_available": 18
     },
     {
       "id": "SKU-0113",
@@ -410,7 +460,7 @@
       "price": 40000,
       "retail_price": 75000,
       "desired_price": 46000,
-      "quantity_available": 1
+      "quantity_available": 3
     },
     {
       "id": "SKU-0471",
@@ -491,6 +541,16 @@
       "retail_price": 10000,
       "desired_price": 7000,
       "quantity_available": 159
+    },
+    {
+      "id": "SKU-0493",
+      "name": "Mút phủ tròn",
+      "warehouse": "FK",
+      "collection": "Flower Knows",
+      "price": 1,
+      "retail_price": 15000,
+      "desired_price": 10000,
+      "quantity_available": 29
     },
     {
       "id": "SKU-0072",
@@ -593,6 +653,16 @@
       "quantity_available": 0
     },
     {
+      "id": "SKU-0489",
+      "name": "Gương hồng box xấu",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 125000,
+      "retail_price": 175000,
+      "desired_price": 125000,
+      "quantity_available": 1
+    },
+    {
       "id": "SKU-0074",
       "name": "gương nâu",
       "warehouse": "FK",
@@ -660,7 +730,7 @@
       "price": 155000,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 0
+      "quantity_available": 1
     },
     {
       "id": "SKU-0172",
@@ -677,10 +747,20 @@
       "name": "mắt 02",
       "warehouse": "FK",
       "collection": "gấu",
-      "price": 192934,
+      "price": 186869,
       "retail_price": 310000,
       "desired_price": 225000,
-      "quantity_available": 0
+      "quantity_available": 4
+    },
+    {
+      "id": "SKU-0491",
+      "name": "Móc điện thoại",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 1,
+      "retail_price": 75000,
+      "desired_price": 55000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0029",
@@ -690,7 +770,7 @@
       "price": 120000,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 14
+      "quantity_available": 13
     },
     {
       "id": "SKU-0077",
@@ -700,7 +780,7 @@
       "price": 45000,
       "retail_price": 63000,
       "desired_price": 45000,
-      "quantity_available": 5
+      "quantity_available": 6
     },
     {
       "id": "SKU-0230",
@@ -721,6 +801,16 @@
       "retail_price": 411000,
       "desired_price": 300000,
       "quantity_available": 0
+    },
+    {
+      "id": "SKU-0486",
+      "name": "Sample",
+      "warehouse": "FK",
+      "collection": "gấu",
+      "price": 1,
+      "retail_price": 15000,
+      "desired_price": 10000,
+      "quantity_available": 4
     },
     {
       "id": "SKU-0127",
@@ -1010,7 +1100,7 @@
       "price": 98125,
       "retail_price": 155000,
       "desired_price": 110000,
-      "quantity_available": 17
+      "quantity_available": 36
     },
     {
       "id": "SKU-0469",
@@ -1020,7 +1110,7 @@
       "price": 98125,
       "retail_price": 155000,
       "desired_price": 110000,
-      "quantity_available": 18
+      "quantity_available": 36
     },
     {
       "id": "SKU-0101",
@@ -1060,7 +1150,7 @@
       "price": 155038,
       "retail_price": 221000,
       "desired_price": 161000,
-      "quantity_available": 50
+      "quantity_available": 52
     },
     {
       "id": "SKU-0234",
@@ -1107,10 +1197,20 @@
       "name": "măt 01",
       "warehouse": "FK",
       "collection": "LA",
-      "price": 219169,
+      "price": 218826,
       "retail_price": 358000,
-      "desired_price": 260000,
-      "quantity_available": 20
+      "desired_price": 250000,
+      "quantity_available": 27
+    },
+    {
+      "id": "SKU-0490",
+      "name": "Mắt 01 new seal nứt phấn",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 200000,
+      "retail_price": 265000,
+      "desired_price": 200000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0474",
@@ -1257,10 +1357,10 @@
       "name": "box",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 1,
+      "price": 4907,
       "retail_price": 90000,
       "desired_price": 60000,
-      "quantity_available": 1
+      "quantity_available": 44
     },
     {
       "id": "SKU-0468",
@@ -1268,9 +1368,9 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 1,
-      "retail_price": 1,
-      "desired_price": 1,
-      "quantity_available": 1
+      "retail_price": 45000,
+      "desired_price": 30000,
+      "quantity_available": 9
     },
     {
       "id": "SKU-0426",
@@ -1280,7 +1380,7 @@
       "price": 43189,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 49
+      "quantity_available": 51
     },
     {
       "id": "SKU-0425",
@@ -1310,7 +1410,7 @@
       "price": 148936,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 58
+      "quantity_available": 57
     },
     {
       "id": "SKU-0432",
@@ -1330,7 +1430,7 @@
       "price": 149116,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 27
+      "quantity_available": 28
     },
     {
       "id": "SKU-0419",
@@ -1340,7 +1440,7 @@
       "price": 167844,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 54
+      "quantity_available": 53
     },
     {
       "id": "SKU-0415",
@@ -1430,7 +1530,7 @@
       "price": 149138,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 8
+      "quantity_available": 9
     },
     {
       "id": "SKU-0408",
@@ -1480,7 +1580,7 @@
       "price": 219716,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 24
+      "quantity_available": 20
     },
     {
       "id": "SKU-0467",
@@ -1489,28 +1589,28 @@
       "collection": "snow",
       "price": 219240,
       "retail_price": 305000,
-      "desired_price": 230000,
-      "quantity_available": 3
+      "desired_price": 222000,
+      "quantity_available": 2
     },
     {
       "id": "SKU-0405",
       "name": "mắt 02",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 219240,
+      "price": 219683,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 8
+      "quantity_available": 38
     },
     {
       "id": "SKU-0406",
       "name": "mắt 03",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 219810,
+      "price": 188793,
       "retail_price": 305000,
       "desired_price": 220000,
-      "quantity_available": 0
+      "quantity_available": 2
     },
     {
       "id": "SKU-0421",
@@ -1520,7 +1620,7 @@
       "price": 105874,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 21
+      "quantity_available": 22
     },
     {
       "id": "SKU-0422",
@@ -1770,7 +1870,7 @@
       "price": 36130,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 10
+      "quantity_available": 11
     },
     {
       "id": "SKU-0100",
@@ -1800,7 +1900,17 @@
       "price": 153038,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 42
+      "quantity_available": 33
+    },
+    {
+      "id": "SKU-0496",
+      "name": "Má 03 móp",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 140000,
+      "retail_price": 192000,
+      "desired_price": 140000,
+      "quantity_available": 8
     },
     {
       "id": "SKU-0084",
@@ -1810,7 +1920,7 @@
       "price": 153075,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 45
+      "quantity_available": 47
     },
     {
       "id": "SKU-0124",
@@ -1820,7 +1930,17 @@
       "price": 195000,
       "retail_price": 270000,
       "desired_price": 195000,
-      "quantity_available": 13
+      "quantity_available": 11
+    },
+    {
+      "id": "SKU-0487",
+      "name": "Mắt 01 móp",
+      "warehouse": "FK",
+      "collection": "sò",
+      "price": 157800,
+      "retail_price": 217000,
+      "desired_price": 157800,
+      "quantity_available": 2
     },
     {
       "id": "SKU-0019",
@@ -1830,7 +1950,7 @@
       "price": 192841,
       "retail_price": 267000,
       "desired_price": 195000,
-      "quantity_available": 20
+      "quantity_available": 16
     },
     {
       "id": "SKU-0266",
@@ -1840,7 +1960,7 @@
       "price": 157800,
       "retail_price": 217000,
       "desired_price": 157800,
-      "quantity_available": 0
+      "quantity_available": 2
     },
     {
       "id": "SKU-0069",
@@ -1867,10 +1987,10 @@
       "name": "phủ xanh",
       "warehouse": "FK",
       "collection": "sò",
-      "price": 260000,
+      "price": 255360,
       "retail_price": 360000,
       "desired_price": 260000,
-      "quantity_available": 0
+      "quantity_available": 1
     },
     {
       "id": "SKU-0168",
@@ -1960,7 +2080,7 @@
       "price": 152569,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 43
+      "quantity_available": 44
     },
     {
       "id": "SKU-0141",
@@ -1970,7 +2090,7 @@
       "price": 211950,
       "retail_price": 315000,
       "desired_price": 230000,
-      "quantity_available": 33
+      "quantity_available": 37
     },
     {
       "id": "SKU-0097",
@@ -1987,7 +2107,7 @@
       "name": "mắt 03",
       "warehouse": "FK",
       "collection": "swan",
-      "price": 217739,
+      "price": 215045,
       "retail_price": 330000,
       "desired_price": 240000,
       "quantity_available": 14
@@ -2000,17 +2120,17 @@
       "price": 15000,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 0
+      "quantity_available": 15
     },
     {
       "id": "SKU-0369",
       "name": "son 02",
       "warehouse": "FK",
       "collection": "swan",
-      "price": 135000,
+      "price": 129525,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 0
+      "quantity_available": 30
     },
     {
       "id": "SKU-0370",
@@ -2080,7 +2200,7 @@
       "price": 49757,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 20
+      "quantity_available": 22
     },
     {
       "id": "SKU-0046",
@@ -2090,7 +2210,7 @@
       "price": 45000,
       "retail_price": 70000,
       "desired_price": 45000,
-      "quantity_available": 26
+      "quantity_available": 23
     },
     {
       "id": "SKU-0060",
@@ -2180,7 +2300,7 @@
       "price": 194000,
       "retail_price": 265000,
       "desired_price": 194000,
-      "quantity_available": 7
+      "quantity_available": 10
     },
     {
       "id": "SKU-0048",
@@ -2237,10 +2357,10 @@
       "name": "má 03",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 150100,
+      "price": 149150,
       "retail_price": 230000,
       "desired_price": 160000,
-      "quantity_available": 0
+      "quantity_available": 40
     },
     {
       "id": "SKU-0035",
@@ -2267,10 +2387,10 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 230000,
+      "price": 192963,
       "retail_price": 320000,
       "desired_price": 230000,
-      "quantity_available": 0
+      "quantity_available": 5
     },
     {
       "id": "SKU-0103",
@@ -2287,10 +2407,20 @@
       "name": "mắt 03",
       "warehouse": "FK",
       "collection": "thỏ",
-      "price": 234959,
+      "price": 231764,
       "retail_price": 336000,
       "desired_price": 240000,
-      "quantity_available": 21
+      "quantity_available": 25
+    },
+    {
+      "id": "SKU-0492",
+      "name": "Móc điện thoại",
+      "warehouse": "FK",
+      "collection": "thỏ",
+      "price": 1,
+      "retail_price": 75000,
+      "desired_price": 55000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0126",
@@ -2310,7 +2440,7 @@
       "price": 105000,
       "retail_price": 150000,
       "desired_price": 105000,
-      "quantity_available": 12
+      "quantity_available": 13
     },
     {
       "id": "SKU-0052",
@@ -2331,6 +2461,16 @@
       "retail_price": 390000,
       "desired_price": 300000,
       "quantity_available": 0
+    },
+    {
+      "id": "SKU-0499",
+      "name": "Nước hoa xanh",
+      "warehouse": "FK",
+      "collection": "thỏ",
+      "price": 268380,
+      "retail_price": 398000,
+      "desired_price": 290000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0051",
@@ -2360,7 +2500,7 @@
       "price": 135000,
       "retail_price": 190000,
       "desired_price": 135000,
-      "quantity_available": 1
+      "quantity_available": 0
     },
     {
       "id": "SKU-0138",
@@ -2383,6 +2523,16 @@
       "quantity_available": 0
     },
     {
+      "id": "SKU-0500",
+      "name": "vial xanh",
+      "warehouse": "FK",
+      "collection": "thỏ",
+      "price": 1,
+      "retail_price": 21000,
+      "desired_price": 15000,
+      "quantity_available": 1
+    },
+    {
       "id": "SKU-0125",
       "name": "vỏ cushion hồng",
       "warehouse": "FK",
@@ -2390,17 +2540,27 @@
       "price": 200000,
       "retail_price": 275000,
       "desired_price": 200000,
-      "quantity_available": 0
+      "quantity_available": 1
     },
     {
       "id": "SKU-0158",
-      "name": "box rỗng",
+      "name": "box",
       "warehouse": "FK",
       "collection": "unicorn",
       "price": 20183,
       "retail_price": 90000,
       "desired_price": 65000,
-      "quantity_available": 0
+      "quantity_available": 6
+    },
+    {
+      "id": "SKU-0494",
+      "name": "Box lỗi nhẹ",
+      "warehouse": "FK",
+      "collection": "unicorn",
+      "price": 1,
+      "retail_price": 45000,
+      "desired_price": 30000,
+      "quantity_available": 5
     },
     {
       "id": "SKU-0178",
@@ -2410,7 +2570,7 @@
       "price": 45000,
       "retail_price": 75000,
       "desired_price": 45000,
-      "quantity_available": 15
+      "quantity_available": 14
     },
     {
       "id": "SKU-0195",
@@ -2420,7 +2580,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 35
+      "quantity_available": 36
     },
     {
       "id": "SKU-0201",
@@ -2460,7 +2620,17 @@
       "price": 125600,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 13
+      "quantity_available": 11
+    },
+    {
+      "id": "SKU-0488",
+      "name": "Gương tím box xấu",
+      "warehouse": "FK",
+      "collection": "unicorn",
+      "price": 120000,
+      "retail_price": 180000,
+      "desired_price": 130000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0162",
@@ -2470,7 +2640,7 @@
       "price": 131755,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 19
+      "quantity_available": 20
     },
     {
       "id": "SKU-0153",
@@ -2527,10 +2697,10 @@
       "name": "má 01",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 150100,
+      "price": 153075,
       "retail_price": 213000,
-      "desired_price": 155000,
-      "quantity_available": 0
+      "desired_price": 160000,
+      "quantity_available": 50
     },
     {
       "id": "SKU-0160",
@@ -2577,20 +2747,20 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 172338,
+      "price": 180411,
       "retail_price": 329000,
       "desired_price": 200000,
-      "quantity_available": 1
+      "quantity_available": 4
     },
     {
       "id": "SKU-0151",
       "name": "mắt 02",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 187583,
+      "price": 185974,
       "retail_price": 310000,
       "desired_price": 225000,
-      "quantity_available": 2
+      "quantity_available": 5
     },
     {
       "id": "SKU-0186",
@@ -2630,7 +2800,7 @@
       "price": 115000,
       "retail_price": 160000,
       "desired_price": 115000,
-      "quantity_available": 20
+      "quantity_available": 17
     },
     {
       "id": "SKU-0156",
@@ -2647,10 +2817,10 @@
       "name": "nước hoa hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 298680,
+      "price": 276452,
       "retail_price": 410000,
-      "desired_price": 298680,
-      "quantity_available": 0
+      "desired_price": 300000,
+      "quantity_available": 1
     },
     {
       "id": "SKU-0192",
@@ -2667,10 +2837,10 @@
       "name": "phủ hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 227635,
+      "price": 227341,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 39
+      "quantity_available": 40
     },
     {
       "id": "SKU-0190",

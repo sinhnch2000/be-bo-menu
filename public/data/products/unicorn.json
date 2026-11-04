@@ -1,18 +1,29 @@
 {
   "collection": "unicorn",
   "slug": "unicorn",
-  "count": 44,
+  "count": 46,
   "items": [
     {
       "id": "SKU-0158",
-      "name": "box rỗng",
+      "name": "box",
       "warehouse": "FK",
       "collection": "unicorn",
       "price": 20183,
       "retail_price": 90000,
       "desired_price": 65000,
-      "quantity_available": 0,
+      "quantity_available": 6,
       "image": "images/SKU-0158.jpg"
+    },
+    {
+      "id": "SKU-0494",
+      "name": "Box lỗi nhẹ",
+      "warehouse": "FK",
+      "collection": "unicorn",
+      "price": 1,
+      "retail_price": 45000,
+      "desired_price": 30000,
+      "quantity_available": 5,
+      "image": null
     },
     {
       "id": "SKU-0178",
@@ -22,7 +33,7 @@
       "price": 45000,
       "retail_price": 75000,
       "desired_price": 45000,
-      "quantity_available": 15,
+      "quantity_available": 14,
       "image": "images/SKU-0178.jpg"
     },
     {
@@ -33,7 +44,7 @@
       "price": 41000,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 35,
+      "quantity_available": 36,
       "image": "images/SKU-0195.jpg"
     },
     {
@@ -77,8 +88,19 @@
       "price": 125600,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 13,
+      "quantity_available": 11,
       "image": "images/SKU-0193.webp"
+    },
+    {
+      "id": "SKU-0488",
+      "name": "Gương tím box xấu",
+      "warehouse": "FK",
+      "collection": "unicorn",
+      "price": 120000,
+      "retail_price": 180000,
+      "desired_price": 130000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0162",
@@ -88,7 +110,7 @@
       "price": 131755,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 19,
+      "quantity_available": 20,
       "image": "images/SKU-0162.webp"
     },
     {
@@ -151,10 +173,10 @@
       "name": "má 01",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 150100,
+      "price": 153075,
       "retail_price": 213000,
-      "desired_price": 155000,
-      "quantity_available": 0,
+      "desired_price": 160000,
+      "quantity_available": 50,
       "image": "images/SKU-0150.webp"
     },
     {
@@ -206,10 +228,10 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 172338,
+      "price": 180411,
       "retail_price": 329000,
       "desired_price": 200000,
-      "quantity_available": 1,
+      "quantity_available": 4,
       "image": "images/SKU-0161.webp"
     },
     {
@@ -217,10 +239,10 @@
       "name": "mắt 02",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 187583,
+      "price": 185974,
       "retail_price": 310000,
       "desired_price": 225000,
-      "quantity_available": 2,
+      "quantity_available": 5,
       "image": "images/SKU-0151.webp"
     },
     {
@@ -264,7 +286,7 @@
       "price": 115000,
       "retail_price": 160000,
       "desired_price": 115000,
-      "quantity_available": 20,
+      "quantity_available": 17,
       "image": "images/SKU-0167.webp"
     },
     {
@@ -283,10 +305,10 @@
       "name": "nước hoa hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 298680,
+      "price": 276452,
       "retail_price": 410000,
-      "desired_price": 298680,
-      "quantity_available": 0,
+      "desired_price": 300000,
+      "quantity_available": 1,
       "image": "images/SKU-0191.webp"
     },
     {
@@ -305,10 +327,10 @@
       "name": "phủ hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 227635,
+      "price": 227341,
       "retail_price": 340000,
       "desired_price": 245000,
-      "quantity_available": 39,
+      "quantity_available": 40,
       "image": "images/SKU-0152.jpg"
     },
     {

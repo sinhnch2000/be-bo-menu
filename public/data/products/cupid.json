@@ -1,7 +1,7 @@
 {
   "collection": "cupid",
   "slug": "cupid",
-  "count": 17,
+  "count": 21,
   "items": [
     {
       "id": "SKU-0117",
@@ -11,7 +11,7 @@
       "price": 117750,
       "retail_price": 200000,
       "desired_price": 145000,
-      "quantity_available": 22,
+      "quantity_available": 23,
       "image": "images/SKU-0117.webp"
     },
     {
@@ -33,7 +33,7 @@
       "price": 275946,
       "retail_price": 385000,
       "desired_price": 280000,
-      "quantity_available": 2,
+      "quantity_available": 6,
       "image": "images/SKU-0038.webp"
     },
     {
@@ -81,14 +81,36 @@
       "image": null
     },
     {
+      "id": "SKU-0501",
+      "name": "má 01",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 125600,
+      "retail_price": 179000,
+      "desired_price": 130000,
+      "quantity_available": 40,
+      "image": null
+    },
+    {
       "id": "SKU-0465",
       "name": "măt 01",
       "warehouse": "FK",
       "collection": "cupid",
-      "price": 216273,
+      "price": 206176,
       "retail_price": 316000,
       "desired_price": 230000,
-      "quantity_available": 0,
+      "quantity_available": 5,
+      "image": null
+    },
+    {
+      "id": "SKU-0502",
+      "name": "Mắt 01 new seal nứt phấn",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 170000,
+      "retail_price": 250000,
+      "desired_price": 180000,
+      "quantity_available": 1,
       "image": null
     },
     {
@@ -96,11 +118,22 @@
       "name": "măt 02",
       "warehouse": "FK",
       "collection": "cupid",
-      "price": 238244,
+      "price": 229512,
       "retail_price": 354000,
       "desired_price": 260000,
-      "quantity_available": 20,
+      "quantity_available": 28,
       "image": "images/SKU-0106.webp"
+    },
+    {
+      "id": "SKU-0497",
+      "name": "Nước hoa đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 280263,
+      "retail_price": 411000,
+      "desired_price": 300000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0129",
@@ -165,7 +198,7 @@
       "price": 121675,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 14,
+      "quantity_available": 15,
       "image": "images/SKU-0199.webp"
     },
     {
@@ -188,6 +221,17 @@
       "retail_price": 40000,
       "desired_price": 10000,
       "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0498",
+      "name": "Vial đỏ",
+      "warehouse": "FK",
+      "collection": "cupid",
+      "price": 1,
+      "retail_price": 21000,
+      "desired_price": 15000,
+      "quantity_available": 1,
       "image": null
     }
   ]

@@ -1,7 +1,7 @@
 {
   "collection": "dâu",
   "slug": "dau",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "id": "SKU-0091",
@@ -22,7 +22,7 @@
       "price": 86350,
       "retail_price": 150000,
       "desired_price": 109000,
-      "quantity_available": 27,
+      "quantity_available": 28,
       "image": "images/SKU-0111.webp"
     },
     {
@@ -44,8 +44,19 @@
       "price": 129466,
       "retail_price": 213000,
       "desired_price": 155000,
-      "quantity_available": 31,
+      "quantity_available": 39,
       "image": "images/SKU-0200.webp"
+    },
+    {
+      "id": "SKU-0495",
+      "name": "Má 03 móp",
+      "warehouse": "FK",
+      "collection": "dâu",
+      "price": 130000,
+      "retail_price": 185000,
+      "desired_price": 135000,
+      "quantity_available": 1,
+      "image": null
     },
     {
       "id": "SKU-0014",
