@@ -33,7 +33,7 @@
       "price": 45000,
       "retail_price": 75000,
       "desired_price": 45000,
-      "quantity_available": 14,
+      "quantity_available": 12,
       "image": "images/SKU-0178.jpg"
     },
     {
@@ -63,10 +63,10 @@
       "name": "gương hồng",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 145215,
+      "price": 133693,
       "retail_price": 215000,
       "desired_price": 155000,
-      "quantity_available": 17,
+      "quantity_available": 62,
       "image": "images/SKU-0157.webp"
     },
     {
@@ -85,10 +85,10 @@
       "name": "gương tím",
       "warehouse": "FK",
       "collection": "unicorn",
-      "price": 125600,
+      "price": 117337,
       "retail_price": 206000,
       "desired_price": 150000,
-      "quantity_available": 9,
+      "quantity_available": 57,
       "image": "images/SKU-0193.webp"
     },
     {
