@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:19:40.162Z",
+  "generated_at": "2026-11-05T20:39:17.265Z",
   "count": 301,
   "items": [
     {
@@ -1357,7 +1357,7 @@
       "name": "box",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 4907,
+      "price": 6058,
       "retail_price": 90000,
       "desired_price": 60000,
       "quantity_available": 43
@@ -1367,7 +1367,7 @@
       "name": "box lỗi nhẹ",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 1,
+      "price": 2007,
       "retail_price": 45000,
       "desired_price": 30000,
       "quantity_available": 9
