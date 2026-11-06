@@ -22,8 +22,8 @@
       "price": 39250,
       "retail_price": 62000,
       "desired_price": 45000,
-      "quantity_available": 27,
-      "image": null
+      "quantity_available": 26,
+      "image": "images/SKU-0478.webp"
     },
     {
       "id": "SKU-0228",
@@ -44,7 +44,7 @@
       "price": 58230,
       "retail_price": 80000,
       "desired_price": 60000,
-      "quantity_available": 34,
+      "quantity_available": 33,
       "image": "images/SKU-0049.jpg"
     },
     {

@@ -121,7 +121,7 @@
       "price": 36130,
       "retail_price": 60000,
       "desired_price": 40000,
-      "quantity_available": 11,
+      "quantity_available": 10,
       "image": "images/SKU-0368.jpg"
     },
     {
@@ -154,7 +154,7 @@
       "price": 153038,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 33,
+      "quantity_available": 32,
       "image": "images/SKU-0116.jpg"
     },
     {
@@ -176,7 +176,7 @@
       "price": 153075,
       "retail_price": 230000,
       "desired_price": 165000,
-      "quantity_available": 47,
+      "quantity_available": 44,
       "image": "images/SKU-0084.webp"
     },
     {
@@ -209,7 +209,7 @@
       "price": 192841,
       "retail_price": 267000,
       "desired_price": 195000,
-      "quantity_available": 15,
+      "quantity_available": 14,
       "image": "images/SKU-0019.webp"
     },
     {
@@ -253,7 +253,7 @@
       "price": 255360,
       "retail_price": 360000,
       "desired_price": 260000,
-      "quantity_available": 1,
+      "quantity_available": 0,
       "image": "images/SKU-0140.webp"
     },
     {
@@ -280,14 +280,14 @@
     },
     {
       "id": "SKU-0008",
-      "name": "túi",
+      "name": "túi hộp",
       "warehouse": "FK",
       "collection": "sò",
       "price": 39250,
       "retail_price": 62000,
       "desired_price": 45000,
       "quantity_available": 62,
-      "image": null
+      "image": "images/SKU-0008.webp"
     }
   ]
 }
