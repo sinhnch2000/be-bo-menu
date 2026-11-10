@@ -1,7 +1,7 @@
 {
   "collection": "hồ điệp",
   "slug": "ho-diep",
-  "count": 9,
+  "count": 10,
   "items": [
     {
       "id": "SKU-0022",
@@ -35,6 +35,17 @@
       "desired_price": 182000,
       "quantity_available": 0,
       "image": "images/SKU-0228.webp"
+    },
+    {
+      "id": "SKU-0505",
+      "name": "gương xanh",
+      "warehouse": "FK",
+      "collection": "hồ điệp",
+      "price": 160925,
+      "retail_price": 221000,
+      "desired_price": 160925,
+      "quantity_available": 0,
+      "image": null
     },
     {
       "id": "SKU-0049",

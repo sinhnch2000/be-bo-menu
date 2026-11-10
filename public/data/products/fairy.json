@@ -1,7 +1,7 @@
 {
   "collection": "fairy",
   "slug": "fairy",
-  "count": 9,
+  "count": 10,
   "items": [
     {
       "id": "SKU-0085",
@@ -54,7 +54,7 @@
       "collection": "fairy",
       "price": 40000,
       "retail_price": 60000,
-      "desired_price": 40000,
+      "desired_price": 43175,
       "quantity_available": 0,
       "image": null
     },
@@ -88,6 +88,17 @@
       "price": 135000,
       "retail_price": 185000,
       "desired_price": 135000,
+      "quantity_available": 0,
+      "image": null
+    },
+    {
+      "id": "SKU-0503",
+      "name": "má 02",
+      "warehouse": "FK",
+      "collection": "fairy",
+      "price": 149150,
+      "retail_price": 205000,
+      "desired_price": 149150,
       "quantity_available": 0,
       "image": null
     },

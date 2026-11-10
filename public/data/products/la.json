@@ -1,7 +1,7 @@
 {
   "collection": "LA",
   "slug": "la",
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "id": "SKU-0101",
@@ -111,6 +111,17 @@
       "retail_price": 265000,
       "desired_price": 200000,
       "quantity_available": 1,
+      "image": null
+    },
+    {
+      "id": "SKU-0504",
+      "name": "mắt 02",
+      "warehouse": "FK",
+      "collection": "LA",
+      "price": 247275,
+      "retail_price": 339000,
+      "desired_price": 247275,
+      "quantity_available": 0,
       "image": null
     },
     {
