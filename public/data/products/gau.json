@@ -55,7 +55,7 @@
       "price": 39250,
       "retail_price": 62000,
       "desired_price": 45000,
-      "quantity_available": 42,
+      "quantity_available": 40,
       "image": "images/SKU-0477.webp"
     },
     {
@@ -198,7 +198,7 @@
       "price": 120000,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 14,
+      "quantity_available": 13,
       "image": "images/SKU-0029.jpg"
     },
     {
@@ -209,7 +209,7 @@
       "price": 45000,
       "retail_price": 63000,
       "desired_price": 45000,
-      "quantity_available": 6,
+      "quantity_available": 5,
       "image": "images/SKU-0077.webp"
     },
     {
