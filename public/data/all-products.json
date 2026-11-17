@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:28:33.814Z",
+  "generated_at": "2026-11-17T03:52:47.393Z",
   "count": 304,
   "items": [
     {
@@ -100,7 +100,7 @@
       "price": 275946,
       "retail_price": 385000,
       "desired_price": 280000,
-      "quantity_available": 3
+      "quantity_available": 4
     },
     {
       "id": "SKU-0220",
@@ -150,7 +150,7 @@
       "price": 125600,
       "retail_price": 179000,
       "desired_price": 130000,
-      "quantity_available": 32
+      "quantity_available": 33
     },
     {
       "id": "SKU-0465",
@@ -180,7 +180,7 @@
       "price": 229512,
       "retail_price": 354000,
       "desired_price": 260000,
-      "quantity_available": 22
+      "quantity_available": 23
     },
     {
       "id": "SKU-0497",
