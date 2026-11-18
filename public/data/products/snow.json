@@ -11,7 +11,7 @@
       "price": 6058,
       "retail_price": 90000,
       "desired_price": 60000,
-      "quantity_available": 34,
+      "quantity_available": 33,
       "image": "images/SKU-0439.jpg"
     },
     {
@@ -30,10 +30,10 @@
       "name": "cọ má hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 43189,
+      "price": 43184,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 32,
+      "quantity_available": 51,
       "image": "images/SKU-0426.jpg"
     },
     {
@@ -41,10 +41,10 @@
       "name": "cọ má xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 39226,
+      "price": 39243,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 14,
+      "quantity_available": 44,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "price": 148936,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 44,
+      "quantity_available": 43,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -99,7 +99,7 @@
       "price": 167844,
       "retail_price": 240000,
       "desired_price": 170000,
-      "quantity_available": 45,
+      "quantity_available": 43,
       "image": "images/SKU-0419.jpg"
     },
     {
@@ -176,7 +176,7 @@
       "price": 7850,
       "retail_price": 25000,
       "desired_price": 10000,
-      "quantity_available": 16,
+      "quantity_available": 14,
       "image": "images/SKU-0424.jpg"
     },
     {
@@ -198,7 +198,7 @@
       "price": 149138,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 9,
+      "quantity_available": 8,
       "image": "images/SKU-0407.jpg"
     },
     {
@@ -308,7 +308,7 @@
       "price": 105951,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 15,
+      "quantity_available": 14,
       "image": "images/SKU-0422.jpg"
     },
     {
@@ -374,7 +374,7 @@
       "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 12,
+      "quantity_available": 20,
       "image": "images/SKU-0398.jpg"
     },
     {
@@ -396,7 +396,7 @@
       "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 1,
+      "quantity_available": 15,
       "image": "images/SKU-0400.jpg"
     },
     {
@@ -440,7 +440,7 @@
       "price": 13738,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 36,
+      "quantity_available": 35,
       "image": "images/SKU-0445.jpg"
     },
     {
