@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:19:53.806Z",
+  "generated_at": "2026-11-18T13:57:24.742Z",
   "count": 304,
   "items": [
     {
@@ -520,7 +520,7 @@
       "price": 2748,
       "retail_price": 7000,
       "desired_price": 4000,
-      "quantity_available": 78
+      "quantity_available": 79
     },
     {
       "id": "SKU-0056",
@@ -1780,7 +1780,7 @@
       "price": 13738,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 37
+      "quantity_available": 36
     },
     {
       "id": "SKU-0446",
