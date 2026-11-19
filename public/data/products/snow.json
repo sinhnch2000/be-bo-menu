@@ -66,7 +66,7 @@
       "price": 148936,
       "retail_price": 245000,
       "desired_price": 170000,
-      "quantity_available": 43,
+      "quantity_available": 44,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "price": 149116,
       "retail_price": 225000,
       "desired_price": 164000,
-      "quantity_available": 17,
+      "quantity_available": 18,
       "image": "images/SKU-0420.jpg"
     },
     {
@@ -132,7 +132,7 @@
       "price": 131142,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 30,
+      "quantity_available": 29,
       "image": "images/SKU-0416.jpg"
     },
     {
@@ -143,7 +143,7 @@
       "price": 129525,
       "retail_price": 195000,
       "desired_price": 140000,
-      "quantity_available": 14,
+      "quantity_available": 15,
       "image": "images/SKU-0414.jpg"
     },
     {
@@ -176,7 +176,7 @@
       "price": 7850,
       "retail_price": 25000,
       "desired_price": 10000,
-      "quantity_available": 14,
+      "quantity_available": 15,
       "image": "images/SKU-0424.jpg"
     },
     {
@@ -187,7 +187,7 @@
       "price": 7850,
       "retail_price": 20000,
       "desired_price": 10000,
-      "quantity_available": 16,
+      "quantity_available": 17,
       "image": "images/SKU-0423.jpg"
     },
     {
@@ -198,7 +198,7 @@
       "price": 149138,
       "retail_price": 225000,
       "desired_price": 160000,
-      "quantity_available": 8,
+      "quantity_available": 9,
       "image": "images/SKU-0407.jpg"
     },
     {
@@ -374,7 +374,7 @@
       "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 20,
+      "quantity_available": 19,
       "image": "images/SKU-0398.jpg"
     },
     {
@@ -407,7 +407,7 @@
       "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 9,
+      "quantity_available": 10,
       "image": "images/SKU-0401.jpg"
     },
     {
@@ -440,7 +440,7 @@
       "price": 13738,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 35,
+      "quantity_available": 36,
       "image": "images/SKU-0445.jpg"
     },
     {
@@ -451,7 +451,7 @@
       "price": 13738,
       "retail_price": 21000,
       "desired_price": 15000,
-      "quantity_available": 34,
+      "quantity_available": 35,
       "image": "images/SKU-0446.jpg"
     }
   ]
