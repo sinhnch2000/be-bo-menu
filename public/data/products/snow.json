@@ -33,7 +33,7 @@
       "price": 43184,
       "retail_price": 75000,
       "desired_price": 50000,
-      "quantity_available": 49,
+      "quantity_available": 48,
       "image": "images/SKU-0426.jpg"
     },
     {
@@ -44,7 +44,7 @@
       "price": 39243,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 44,
+      "quantity_available": 43,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -64,9 +64,9 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 148936,
-      "retail_price": 245000,
-      "desired_price": 170000,
-      "quantity_available": 42,
+      "retail_price": 230000,
+      "desired_price": 165000,
+      "quantity_available": 40,
       "image": "images/SKU-0418.jpg"
     },
     {
@@ -86,8 +86,8 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 149116,
-      "retail_price": 225000,
-      "desired_price": 164000,
+      "retail_price": 220000,
+      "desired_price": 160000,
       "quantity_available": 17,
       "image": "images/SKU-0420.jpg"
     },
@@ -97,9 +97,9 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 167844,
-      "retail_price": 240000,
+      "retail_price": 235000,
       "desired_price": 170000,
-      "quantity_available": 43,
+      "quantity_available": 42,
       "image": "images/SKU-0419.jpg"
     },
     {
@@ -174,7 +174,7 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 7850,
-      "retail_price": 25000,
+      "retail_price": 17000,
       "desired_price": 10000,
       "quantity_available": 15,
       "image": "images/SKU-0424.jpg"
@@ -185,7 +185,7 @@
       "warehouse": "FK",
       "collection": "snow",
       "price": 7850,
-      "retail_price": 20000,
+      "retail_price": 15000,
       "desired_price": 10000,
       "quantity_available": 16,
       "image": "images/SKU-0423.jpg"
@@ -374,7 +374,7 @@
       "price": 125600,
       "retail_price": 185000,
       "desired_price": 135000,
-      "quantity_available": 18,
+      "quantity_available": 16,
       "image": "images/SKU-0398.jpg"
     },
     {
