@@ -41,10 +41,10 @@
       "name": "ckd mini 02",
       "warehouse": "FK",
       "collection": "fairy",
-      "price": 51350,
+      "price": 48537,
       "retail_price": 71000,
       "desired_price": 51350,
-      "quantity_available": 17,
+      "quantity_available": 67,
       "image": "images/SKU-0050.webp"
     },
     {
@@ -96,10 +96,10 @@
       "name": "má 02",
       "warehouse": "FK",
       "collection": "fairy",
-      "price": 149150,
+      "price": 150670,
       "retail_price": 205000,
-      "desired_price": 149150,
-      "quantity_available": 0,
+      "desired_price": 150670,
+      "quantity_available": 30,
       "image": null
     },
     {

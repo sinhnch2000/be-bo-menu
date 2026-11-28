@@ -96,10 +96,10 @@
       "name": "mắt 03",
       "warehouse": "FK",
       "collection": "swan",
-      "price": 215045,
+      "price": 210522,
       "retail_price": 330000,
       "desired_price": 240000,
-      "quantity_available": 5,
+      "quantity_available": 65,
       "image": "images/SKU-0065.webp"
     },
     {

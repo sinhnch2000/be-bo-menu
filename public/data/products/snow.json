@@ -44,7 +44,7 @@
       "price": 39243,
       "retail_price": 65000,
       "desired_price": 41000,
-      "quantity_available": 36,
+      "quantity_available": 35,
       "image": "images/SKU-0425.jpg"
     },
     {
@@ -151,10 +151,10 @@
       "name": "kẻ mắt hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 70735,
+      "price": 55510,
       "retail_price": 110000,
       "desired_price": 71000,
-      "quantity_available": 0,
+      "quantity_available": 50,
       "image": "images/SKU-0430.jpg"
     },
     {
@@ -250,10 +250,10 @@
       "name": "mắt 01",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 219716,
+      "price": 208974,
       "retail_price": 325000,
       "desired_price": 235000,
-      "quantity_available": 13,
+      "quantity_available": 63,
       "image": "images/SKU-0404.jpg"
     },
     {
@@ -294,10 +294,10 @@
       "name": "móc hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 105874,
+      "price": 92867,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 13,
+      "quantity_available": 43,
       "image": "images/SKU-0421.jpg"
     },
     {
@@ -305,10 +305,10 @@
       "name": "móc xanh",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 105951,
+      "price": 93873,
       "retail_price": 165000,
       "desired_price": 120000,
-      "quantity_available": 11,
+      "quantity_available": 31,
       "image": "images/SKU-0422.jpg"
     },
     {
@@ -338,10 +338,10 @@
       "name": "phủ hồng",
       "warehouse": "FK",
       "collection": "snow",
-      "price": 225000,
+      "price": 241865,
       "retail_price": 335000,
       "desired_price": 245000,
-      "quantity_available": 0,
+      "quantity_available": 30,
       "image": "images/SKU-0412.jpg"
     },
     {
